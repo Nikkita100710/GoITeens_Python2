@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def main():
-    return "This is a main page NK"
+    return "This is a main page NK test2"
 
 
 print(__name__)  # Expected to receive "main"
