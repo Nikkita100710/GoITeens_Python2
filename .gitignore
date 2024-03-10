@@ -1,0 +1,25 @@
+# Игнорировать все файлы .env
+**/*.env
+
+# Игнорировать все директории .idea
+**/.idea
+
+# Игнорировать все директории venv
+**/venv
+
+#001_Flask/venv
+#001_Flask/.env
+#001_Flask/.idea
+#
+#002_Flask/venv
+#002_Flask/.env
+#002_Flask/.idea
+#
+#003_Flask/venv
+#003_Flask/.env
+#003_Flask/.idea
+#
+#004_Flask/venv
+#004_Flask/.env
+#004_Flask/.idea
+
