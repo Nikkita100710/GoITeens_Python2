@@ -8,9 +8,9 @@ from flask import Flask, render_template
 app = Flask(__name__, template_folder='templateFiles', static_folder='staticFiles')
 
 
-@app.route('/welcome')
-def welcome():
-    return "This is the home page of Flask Application"
+# @app.route('/welcome')
+# def welcome():
+#     return "This is the home page of Flask Application"
 
 
 @app.route('/')
