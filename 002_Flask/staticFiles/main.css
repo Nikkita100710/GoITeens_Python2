@@ -1,0 +1,21 @@
+body {
+    background: Linen;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+h1 {
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 2.5em;
+    color: FireBrick;
+}
+p {
+    font-family: Georgia, serif;
+    font-size: 1.2em;
+    color: DarkSlateGray;
+}
+a {
+    display: block; /* Размещаем ссылки по блоку */
+    text-decoration: none; /* Убираем подчеркивание ссылок */
+    margin-bottom: 10px; /* Добавляем отступ между ссылками */
+    font-size: 1.2em; /* Задаем размер шрифта для ссылок */
+}
