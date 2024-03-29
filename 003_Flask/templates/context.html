@@ -1,18 +1,19 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>{{title}}</title>
-</head>
-<body>
-<h1>{{name}}</h1>
+{% extends 'base.html' %}
+
+{% block title %}{{ title }}{% endblock %}
+
+{% block content %}
+<h1>{{ name }}</h1>
 <ul>
     {% for student in students %}
     <li>
-    {% if student.score > 95 %} cool! {% else %} norm {% endif %}
-    <em>{{student.name}} : {{student.score}}/{{max_score}}</em>
+        {% if student.score > 92 %}
+            'excellent'
+        {% else %}
+            'normal'
+        {% endif %}
+        <em>{{ student.name }}: {{ student.score }} / {{ max_score }}</em>
     </li>
     {% endfor %}
 </ul>
-</body>
-</html>
+{% endblock %}
