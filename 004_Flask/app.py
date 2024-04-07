@@ -46,6 +46,16 @@ def create_article():
         return render_template("create_article.html")
 
 
+@app.route("/articles")
+def list_articles():
+    articles = Article.query.order_by(Article.date.desc()).all()
+    return render_template("articles.html", articles=articles)
+
+
+@app.route("/articles/<int:id>/")
+def articles_detail(id):
+    article = Article.query.get(id)
+    return render_template("articles_detail.html", article=article)
 
 
 @app.route("/create_user", methods=["POST", "GET"])
