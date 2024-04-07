@@ -1,0 +1,26 @@
+{% extends 'hw_base.html' %}
+
+{% block title %}
+{{ user.username }}
+{% endblock %}
+
+{% block content %}
+<div class="container mt-5">
+    <h1>{{ user.username}}</h1>
+    <div class="alert alert-info">
+        <p>{{ user.email }}</p>
+        <p>{{ user.password_hash }}</p>
+        <p><b>Дата та час створення: {{ user.created_at }}</b></p>
+        <a href="/hw_users/{{ user.id }}/delete" class="btn btn-danger">Видалити</a>
+        <a href="/hw_users/{{ user.id }}/update" class="btn btn-secondary">Редагувати</a>
+    </div>
+</div>
+{% endblock %}
+
+
+
+<!--        user = User(-->
+<!--            email=email,-->
+<!--            username=username,-->
+<!--            password_hash=password_hash,-->
+<!--            created_at=created_at-->
