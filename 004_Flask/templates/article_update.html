@@ -1,0 +1,35 @@
+{% extends 'base.html' %}
+
+{% block title %}
+Update records
+{% endblock %}
+
+
+{% block content %}
+<div class="container mt-5">
+    <h1> Update records </h1>
+    <form method="post">
+      <input type="text"
+             name="title"
+             id="title"
+             class="form-control"
+             value="{{ article.title }}"
+             placeholder = "Введи заголовок"/>
+      <textarea name="intro" id="intro" class="form-control" placeholder="Введи короткий опис">{{article.intro}}</textarea>
+      <textarea name="text" id="text" class="form-control" placeholder="Введи звгвльный опис">{{article.text}}</textarea>
+      <input type="submit" class="btn btn-success" value="Оновити">
+    </form>
+
+
+<!--    {% for article in articles %}-->
+<!--    <div class="alert alert-info">-->
+<!--        <h2>{{ article.title }}</h2>-->
+<!--        <p>{{ article.intro }}</p>-->
+<!--        <p><b>Дата та час створення:{{ article.date }}</b></p>-->
+<!--        <a href="/articles/{{ article.id }}" class="btn btn-dark">Детальніше</a>-->
+<!--    </div>-->
+<!--    {% endfor %}-->
+</div>
+
+
+{% endblock %}
