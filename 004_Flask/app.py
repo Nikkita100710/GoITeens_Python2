@@ -83,7 +83,7 @@ def articles_update(id):
             db.session.commit()
             return redirect("/articles")
         except Exception as exc:
-            return f"Про обновлении записи произошла ошибкаЖ {exc}"
+            return f"Про обновлении записи произошла ошибка: {exc}"
     else:
         return render_template("article_update.html", article=article)
 

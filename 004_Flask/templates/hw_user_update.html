@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% block title %}
+Update records
+{% endblock %}
+
+{% block content %}
+<div class="container mt-5">
+    <h1> Update User Information </h1>
+    <form method="post">
+        <input type="email" name="email" id="email" class="form-control mb-3" value="{{ user.email if user else '' }}" placeholder="Enter email" required>
+        <input type="text" name="username" id="username" class="form-control mb-3" value="{{ user.username if user else '' }}" placeholder="Enter username" required>
+        <input type="password" name="password_hash" id="password_hash" class="form-control mb-3" placeholder="Enter password" required>
+        <input type="submit" class="btn btn-success" value="Update">
+    </form>
+</div>
+{% endblock %}
