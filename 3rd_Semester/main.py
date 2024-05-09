@@ -1,45 +1,34 @@
 from fastapi import FastAPI
+from sqlalchemy import create_engine, Column, String, Integer, MetaData, Table
+from databases import Database
 
+DATABASE_URL = 'sqlite:///test.db'
+DATABASE = create_engine('sqlite:///test.db')
+metadata = MetaData()
+database = Database(DATABASE_URL)
 app = FastAPI()
 
-# Список студентів
-students = ["Микита", "Yaroslav", "Влад", "Матвей", "Діана", "Володя", "Владислав", "Василь", "Вальтер", "Вадим"]
-
-soft_skills_teacher = "Анастасія Ivanchenko"
-tech_skills_teacher = "Шарко Максим"
-
-
-@app.get("/students/")
-async def get_students():
-    return {"students": students}
-
-@app.get("/soft-skills-teacher/")
-async def get_soft_skills_teacher():
-    return {"soft_skills_teacher": soft_skills_teacher}
-
-@app.get("/tech-skills-teacher/")
-async def get_tech_skills_teacher():
-    return {"tech_skills_teacher": tech_skills_teacher}
+users = Table(
+    'users',
+    metadata,
+    Column('id', Integer, primary_key=True),
+    Column('name', String),
+    Column('age', Integer)
+)
 
 
-@app.get("/")
-async def root():
-    return {"message": "Hello World"}
+@app.on_event('startup')
+async def startup():
+    await database.connect()
 
 
-@app.get("/hello/{name}")
-async def say_hello(name: str):
-    return {"message": f"Hello {name}"}
+@app.on_event('shutdown')
+async def shutdown():
+    await database.disconnect()
 
 
-@app.get("/name/{name}")
-async def check_name(name: str):
-    if len(name) > 12:
-        return {"message": "Надто довге імя"}
-    else:
-        return {"message": f"{name}"}
-
-
-@app.post("/post")
-async def post_test(name: str):
-    return {"message": f"{name}"}
+@app.get('/users/{user_id}')
+async def read_user(user_id: int):
+    query = users.select().where(users.c.id == user_id)
+    user = await database.fetch_one(query)
+    return {'user': user}
