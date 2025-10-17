@@ -1,0 +1,302 @@
+[
+    {
+        "word": "lol",
+        "transcription": "lɒl",
+        "meaning": "laughing out loud",
+        "translation": "голосно сміюся, дуже смішно",
+        "origin": "Акронім від 'laughing out loud', з'явився в ранніх чатах 1980-х років",
+        "note": "Одне з найпопулярніших інтернет-скорочень, використовується повсюдно",
+        "type": "Акронім",
+        "audio": "lol.mp3"
+    },
+    {
+        "word": "omg",
+        "transcription": "əʊ em dʒiː",
+        "meaning": "oh my god",
+        "translation": "о боже мій, вертається для вираження здивування",
+        "origin": "Акронім від 'oh my god', популяризований у SMS та чатах",
+        "note": "Вживається для вираження шоку, здивування або захоплення",
+        "type": "Акронім",
+        "audio": "omg.mp3"
+    },
+    {
+        "word": "app",
+        "transcription": "æp",
+        "meaning": "application",
+        "translation": "додаток (програма для смартфона або комп'ютера)",
+        "origin": "Скорочення від 'application', popularized з появою смартфонів",
+        "note": "Стандартний термін для мобільних програм",
+        "type": "Усічення",
+        "audio": "app.mp3"
+    },
+    {
+        "word": "pic",
+        "transcription": "pɪk",
+        "meaning": "picture",
+        "translation": "фото, картинка, зображення",
+        "origin": "Скорочення від 'picture', широко використовується в соцмережах",
+        "note": "Популярне в Instagram, Facebook для позначення фотографій",
+        "type": "Усічення",
+        "audio": "pic.mp3"
+    },
+    {
+        "word": "brb",
+        "transcription": "biː ɑːr biː",
+        "meaning": "be right back",
+        "translation": "зараз повернуся, скоро буду",
+        "origin": "Ініціалізм від 'be right back', з ранніх чатів та IRC",
+        "note": "Використовується, коли потрібно ненадовго відійти від розмови",
+        "type": "Ініціалізм",
+        "audio": "brb.mp3"
+    },
+    {
+        "word": "btw",
+        "transcription": "biː tiː ˈdʌbljuː",
+        "meaning": "by the way",
+        "translation": "до речі, між іншим",
+        "origin": "Ініціалізм від 'by the way', популярний у текстових повідомленнях",
+        "note": "Вводить додаткову інформацію або змінює тему розмови",
+        "type": "Ініціалізм",
+        "audio": "btw.mp3"
+    },
+    {
+        "word": "thx",
+        "transcription": "θæŋks",
+        "meaning": "thanks",
+        "translation": "дякую, спасибі",
+        "origin": "Фонетичне скорочення 'thanks', популярне в SMS",
+        "note": "Швидкий спосіб подякувати в переписці",
+        "type": "Фонетичні/орфографічні ігри",
+        "audio": "thx.mp3"
+    },
+    {
+        "word": "idk",
+        "transcription": "aɪ dəʊnt nəʊ",
+        "meaning": "I don't know",
+        "translation": "я не знаю, не маю поняття",
+        "origin": "Ініціалізм від 'I don't know', поширений у чатах",
+        "note": "Швидка відповідь, коли немає інформації",
+        "type": "Ініціалізм",
+        "audio": "idk.mp3"
+    },
+    {
+        "word": "afk",
+        "transcription": "eɪ ef keɪ",
+        "meaning": "away from keyboard",
+        "translation": "відійшов від клавіатури, не при комп'ютері",
+        "origin": "З онлайн-ігор та чатів 1990-х років",
+        "note": "Популярне в іграх для позначення тимчасової неактивності",
+        "type": "Ініціалізм",
+        "audio": "afk.mp3"
+    },
+    {
+        "word": "dm",
+        "transcription": "diː em",
+        "meaning": "direct message",
+        "translation": "особисте повідомлення, приватне повідомлення",
+        "origin": "З Twitter, означає приватне повідомлення",
+        "note": "Використовується в соцмережах для приватної комунікації",
+        "type": "Ініціалізм",
+        "audio": "dm.mp3"
+    },
+    {
+        "word": "faq",
+        "transcription": "fæk / ef eɪ kjuː",
+        "meaning": "frequently asked questions",
+        "translation": "часті питання, питання що часто задаються",
+        "origin": "Ініціалізм, який став стандартом для розділів довідки",
+        "note": "Стандартний розділ на сайтах з відповідями на популярні питання",
+        "type": "Ініціалізм",
+        "audio": "faq.mp3"
+    },
+    {
+        "word": "gif",
+        "transcription": "ɡɪf / dʒɪf",
+        "meaning": "Graphics Interchange Format",
+        "translation": "формат анімованих зображень",
+        "origin": "Акронім від назви формату файлу, створеного 1987 року",
+        "note": "Популярні короткі анімовані зображення в соцмережах",
+        "type": "Акронім",
+        "audio": "gif.mp3"
+    },
+    {
+        "word": "irl",
+        "transcription": "aɪ ɑːr el",
+        "meaning": "in real life",
+        "translation": "в реальному житті, наяву",
+        "origin": "Ініціалізм, що протиставляє онлайн та офлайн життя",
+        "note": "Використовується для розрізнення віртуального та реального світу",
+        "type": "Ініціалізм",
+        "audio": "irl.mp3"
+    },
+    {
+        "word": "aka",
+        "transcription": "eɪ keɪ eɪ",
+        "meaning": "also known as",
+        "translation": "також відомий як, він же",
+        "origin": "Ініціалізм, який використовувався ще до інтернету",
+        "note": "Для вказівки альтернативної назви або псевдоніма",
+        "type": "Ініціалізм",
+        "audio": "aka.mp3"
+    },
+    {
+        "word": "troll",
+        "transcription": "trəʊl",
+        "meaning": "someone who posts provocative content online",
+        "translation": "людина, що провокує в інтернеті, тролить",
+        "origin": "Від рибальського терміну 'trolling', адаптований для інтернет-культури",
+        "note": "Означає провокаційну поведінку онлайн",
+        "type": "Семантичний зсув",
+        "audio": "troll.mp3"
+    },
+    {
+        "word": "spam",
+        "transcription": "spæm",
+        "meaning": "unwanted or junk messages",
+        "translation": "небажані повідомлення, сміття (у листах)",
+        "origin": "Від назви консервованого м'яса, популяризоване Monty Python",
+        "note": "Небажані масові розсилки електронною поштою",
+        "type": "Семантичний зсув",
+        "audio": "spam.mp3"
+    },
+    {
+        "word": "ban",
+        "transcription": "bæn",
+        "meaning": "to prohibit someone from accessing a platform",
+        "translation": "заборонити доступ, заблокувати користувача",
+        "origin": "Звичайне англійське слово, набуло нового значення онлайн",
+        "note": "Блокування користувача на форумі, в грі або соцмережі",
+        "type": "Семантичний зсув",
+        "audio": "ban.mp3"
+    },
+    {
+        "word": "link",
+        "transcription": "lɪŋk",
+        "meaning": "a hyperlink or URL",
+        "translation": "посилання, гіперпосилання",
+        "origin": "Від 'hyperlink', скорочено до просто 'link'",
+        "note": "Основний елемент навігації в інтернеті",
+        "type": "Усічення",
+        "audio": "link.mp3"
+    },
+    {
+        "word": "tag",
+        "transcription": "tæɡ",
+        "meaning": "to label or mention someone",
+        "translation": "позначити когось, відмітити в пості",
+        "origin": "Від звичайного слова 'tag', набуло цифрового значення",
+        "note": "Використовується для позначення людей у фото або постах",
+        "type": "Семантичний зсув",
+        "audio": "tag.mp3"
+    },
+    {
+        "word": "wifi",
+        "transcription": "ˈwaɪfaɪ",
+        "meaning": "wireless internet connection",
+        "translation": "бездротовий інтернет",
+        "origin": "Торгова марка для бездротових мереж стандарту IEEE 802.11",
+        "note": "Стандартний термін для бездротового з'єднання",
+        "type": "Акронім",
+        "audio": "wifi.mp3"
+    },
+    {
+        "word": "blog",
+        "transcription": "blɒɡ",
+        "meaning": "a website with regular posts",
+        "translation": "блог, онлайн-щоденник",
+        "origin": "Скорочення від 'weblog', придумано 1999 року",
+        "note": "Особистий або тематичний сайт з регулярними публікаціями",
+        "type": "Бленд",
+        "audio": "blog.mp3"
+    },
+    {
+        "word": "like",
+        "transcription": "laɪk",
+        "meaning": "to approve or support content",
+        "translation": "вподобати, поставити лайк",
+        "origin": "Facebook popularized кнопка 'like' 2009 року",
+        "note": "Основний спосіб взаємодії з контентом у соцмережах",
+        "type": "Семантичний зсув",
+        "audio": "like.mp3"
+    },
+    {
+        "word": "chat",
+        "transcription": "tʃæt",
+        "meaning": "to communicate via text online",
+        "translation": "спілкуватися онлайн, чат",
+        "origin": "Звичайне слово, що набуло онлайн-значення",
+        "note": "Текстове спілкування в реальному часі",
+        "type": "Семантичний зсув",
+        "audio": "chat.mp3"
+    },
+    {
+        "word": "post",
+        "transcription": "pəʊst",
+        "meaning": "to publish content online",
+        "translation": "опублікувати, викласти пост",
+        "origin": "Від 'to post a message', адаптоване для соцмереж",
+        "note": "Публікація контенту в соцмережах або на форумах",
+        "type": "Семантичний зсув",
+        "audio": "post.mp3"
+    },
+    {
+        "word": "vid",
+        "transcription": "vɪd",
+        "meaning": "video",
+        "translation": "відео, відеоролик",
+        "origin": "Скорочення від 'video', популярне в соцмережах",
+        "note": "Швидкий спосіб сказати 'відео' в неформальному контексті",
+        "type": "Усічення",
+        "audio": "vid.mp3"
+    },
+    {
+        "word": "msg",
+        "transcription": "ˈmesɪdʒ",
+        "meaning": "message",
+        "translation": "повідомлення",
+        "origin": "Скорочення від 'message', популярне в SMS та чатах",
+        "note": "Коротка форма для позначення повідомлення",
+        "type": "Усічення",
+        "audio": "msg.mp3"
+    },
+    {
+        "word": "bot",
+        "transcription": "bɒt",
+        "meaning": "automated program",
+        "translation": "бот, автоматична програма",
+        "origin": "Скорочення від 'robot', застосоване до програм",
+        "note": "Автоматизовані акаунти або програми в іграх і соцмережах",
+        "type": "Усічення",
+        "audio": "bot.mp3"
+    },
+    {
+        "word": "sub",
+        "transcription": "sʌb",
+        "meaning": "to subscribe",
+        "translation": "підписатися, оформити підписку",
+        "origin": "Скорочення від 'subscribe', популярне на YouTube",
+        "note": "Основна дія для слідкування за каналами та профілями",
+        "type": "Усічення",
+        "audio": "sub.mp3"
+    },
+    {
+        "word": "url",
+        "transcription": "juː ɑːr el",
+        "meaning": "uniform resource locator",
+        "translation": "адреса сайту, веб-адреса",
+        "origin": "Технічний термін, що став загальновживаним",
+        "note": "Стандартний формат адрес в інтернеті",
+        "type": "Ініціалізм",
+        "audio": "url.mp3"
+    },
+    {
+        "word": "meme",
+        "transcription": "miːm",
+        "meaning": "viral internet content or joke",
+        "translation": "мем, вірусний жарт або зображення",
+        "origin": "Від наукового терміну Річарда Докінза, адаптоване для інтернету",
+        "note": "Культурний феномен, що швидко поширюється онлайн",
+        "type": "Лексичні запозичення",
+        "audio": "meme.mp3"
+    }
+]

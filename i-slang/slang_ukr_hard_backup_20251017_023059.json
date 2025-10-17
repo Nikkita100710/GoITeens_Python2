@@ -1,0 +1,2582 @@
+[
+    {
+        "word": "404",
+        "transcription": "[ˌfoʊ oʊ foʊr]",
+        "meaning": "Page not found error",
+        "translation": "Помилка 'сторінка не знайдена'",
+        "origin": "HTTP протокол 1990-х років",
+        "note": "HTTP-код помилки для запитаної вебсторінки, що не існує. Код 404 є одним з найпоширеніших кодів помилок.  111",
+        "type": "Неологізм",
+        "audio": "404.mp3"
+    },
+    {
+        "word": "achievement unlocked",
+        "transcription": "[ətʃˈiːvmənt ʌnˈlɒkt]",
+        "meaning": "Reached or obtained something great",
+        "translation": "Досяг чи отримав щось велике",
+        "origin": "Ігровий сленг та персональні досягнення",
+        "note": "Фраза для ознаменування досягнення. 'Achievement unlocked' часто використовується жартома в реальному житті. Стала мемом в соціальних мережах.",
+        "type": "Лексичні запозичення",
+        "audio": "achievement_unlocked.mp3"
+    },
+    {
+        "word": "aesthetic",
+        "transcription": "[esˈθetɪk]",
+        "meaning": "Visual style or vibe",
+        "translation": "Естетика, візуальний стиль",
+        "origin": "Філософський термін адаптований соцмережами 2010-х",
+        "note": "Візуальна ідентичність чи стиль контенту. Instagram aesthetics визначають feed вигляд. Cottagecore, dark academia є популярними aesthetic. Aesthetic культура домінує в як молодь виражає ідентичність.",
+        "type": "Лексичні запозичення",
+        "audio": "aesthetic.mp3"
+    },
+    {
+        "word": "afk",
+        "transcription": "[ˌeɪ ef ˈkeɪ]",
+        "meaning": "Away from keyboard",
+        "translation": "Відсутній від клавіатури",
+        "origin": "Ігровий та комп'ютерний сленг 1990-х років",
+        "note": "Акронім для позначення гравця, який тимчасово лишив гру. 'AFK' використовується у мультиплеєрних іграх. Гравець може отримати штраф за тривале AFK.",
+        "type": "Акронім",
+        "audio": "afk.mp3"
+    },
+    {
+        "word": "AFK",
+        "transcription": "[eɪ ef keɪ]",
+        "meaning": "Away From Keyboard",
+        "translation": "Відійшов від клавіатури",
+        "origin": "Гейм ініціалізм 1990-х",
+        "note": "Повідомлення у грі або чаті що гравець тимчасово відсутній. Використовується в онлайн-іграх, Discord, Twitch. Став universal способом сказати що ти недоступний онлайн.",
+        "type": "Ініціалізм",
+        "audio": "afk.mp3"
+    },
+    {
+        "word": "algorithm",
+        "transcription": "[ˈælɡərɪðəm]",
+        "meaning": "Step-by-step procedure",
+        "translation": "Алгоритм, послідовність дій для вирішення проблеми",
+        "origin": "Математика та комп'ютерна наука 1960-х років",
+        "note": "Набір чітких інструкцій для вирішення проблеми. Алгоритми є основою всього програмного забезпечення.",
+        "type": "Лексичні запозичення",
+        "audio": "algorithm.mp3"
+    },
+    {
+        "word": "alpha",
+        "transcription": "[ˈælfə]",
+        "meaning": "Early development version",
+        "translation": "Альфа-версія",
+        "origin": "Розробка програмного забезпечення 1970-х років",
+        "note": "Рання стадія розробки з багатьма проблемами. Alpha access надає ранній погляд. Alpha testing є критичним етапом. Alpha версії показують потенціал майбутнього продукту.",
+        "type": "Лексичні запозичення",
+        "audio": "alpha.mp3"
+    },
+    {
+        "word": "AMA",
+        "transcription": "[ˌeɪ em ˈeɪ]",
+        "meaning": "Ask me anything",
+        "translation": "Запитай мене про щось",
+        "origin": "Інтернет-форуми та Reddit 2000-х років",
+        "note": "Сесія, в якій людина відповідає на будь-які питання від користувачів. AMA часто проводиться на Reddit для знаменитостей.",
+        "type": "Акронім",
+        "audio": "ama.mp3"
+    },
+    {
+        "word": "API",
+        "transcription": "[ˌeɪ piː ˈaɪ]",
+        "meaning": "Application programming interface",
+        "translation": "Програмний інтерфейс",
+        "origin": "Комп'ютерна архітектура 1960-х років",
+        "note": "Набір правил для взаємодії різних програм. API дозволяє розробникам використовувати функціональність інших сервісів.",
+        "type": "Акронім",
+        "audio": "api.mp3"
+    },
+    {
+        "word": "app",
+        "transcription": "[æp]",
+        "meaning": "Application software",
+        "translation": "Програмне забезпечення, застосунок",
+        "origin": "Комп'ютерна термінологія 2000-х років",
+        "note": "Скорочена форма від слова 'application'. Використовується повсюдно у мобільних та веб-застосунках. Термін з'явився з ростом популярності смартфонів.",
+        "type": "Усічення",
+        "audio": "app.mp3"
+    },
+    {
+        "word": "ASAP",
+        "transcription": "[ˌeɪ es eɪ ˈpiː]",
+        "meaning": "As soon as possible",
+        "translation": "Якомога швидше, якнайскоріше",
+        "origin": "Військовий та діловий жаргон",
+        "note": "Акронім для термінової потреби в швидкому виконанні. ASAP використовується в офіційній та невимушеній комунікації.",
+        "type": "Акронім",
+        "audio": "asap.mp3"
+    },
+    {
+        "word": "ASCII",
+        "transcription": "[ˈæski]",
+        "meaning": "American standard code",
+        "translation": "Американський стандартний код для обміну інформацією",
+        "origin": "Комп'ютерні стандарти 1963 року",
+        "note": "Стандартна схема кодування символів у комп'ютерах. ASCII був першим стандартизованим способом кодування.",
+        "type": "Акронім",
+        "audio": "ASCII.mp3"
+    },
+    {
+        "word": "b4",
+        "transcription": "[bɪˈfɔːr]",
+        "meaning": "Before",
+        "translation": "До, перед",
+        "origin": "Чати та SMS 2000-х років",
+        "note": "Цифрове фонетичне скорочення слова 'before'. Часто використовується в текстових повідомленнях та чатах для економії часу та символів.",
+        "type": "Фонетичні/орфографічні ігри",
+        "audio": "b4.mp3"
+    },
+    {
+        "word": "bandwidth",
+        "transcription": "[ˈbændwɪdθ]",
+        "meaning": "Data transmission speed",
+        "translation": "Пропускна здатність, швидкість передачі даних",
+        "origin": "Комп'ютерні мережі 1980-х років",
+        "note": "Максимальна кількість даних, що передаються через мережу. Більша пропускна здатність дозволяє швидше завантажувати файли.",
+        "type": "Лексичні запозичення",
+        "audio": "bandwidth.mp3"
+    },
+    {
+        "word": "based",
+        "transcription": "[beɪst]",
+        "meaning": "Authentic and bold",
+        "translation": "Автентичний та сміливий",
+        "origin": "Rapper Lil B адаптовано мемною культурою 2010-х",
+        "note": "Комплімент для того хто висловлює controversial думку не боячись критики. Популярний на Reddit, Twitter, TikTok. Використовується для схвалення fearless authenticity незалежно від mainstream opinion.",
+        "type": "Семантичний зсув",
+        "audio": "based.mp3"
+    },
+    {
+        "word": "basic",
+        "transcription": "[ˈbeɪsɪk]",
+        "meaning": "Mainstream, unoriginal, predictable",
+        "translation": "Банальний, типовий",
+        "origin": "Молодіжний сленг 2010-х років",
+        "note": "Критика передбачуваних смаків та поведінки. 'Pumpkin spice latte' є basic символом. Basic behavior означає відсутність оригінальності. Basic культура критикується але широко розповсюджена в Instagram.",
+        "type": "Семантичний зсув",
+        "audio": "basic.mp3"
+    },
+    {
+        "word": "benching",
+        "transcription": "[ˈbentʃɪŋ]",
+        "meaning": "Keeping someone as backup option",
+        "translation": "Тримати в резерві",
+        "origin": "Спортивна метафора адаптована dating 2010-х",
+        "note": "Тримати когось як backup опцію в dating. Benching є неповажною тактикою. Жертви benching заслуговують кращого. Benching термін допомагає називати нездорову поведінку.",
+        "type": "Семантичний зсув",
+        "audio": "benching.mp3"
+    },
+    {
+        "word": "bestie",
+        "transcription": "[ˈbesti]",
+        "meaning": "Best friend",
+        "translation": "Найкращий друг, подруга",
+        "origin": "Молодіжний сленг 1990-х років, популяризований в інтернеті",
+        "note": "Ласкавий термін для найкращого друга. Дуже популярний серед молоді на всіх платформах. Часто використовується в Instagram-постах та TikTok-відео.",
+        "type": "Неологізм",
+        "audio": "bestie.mp3"
+    },
+    {
+        "word": "bet",
+        "transcription": "[bet]",
+        "meaning": "Okay, sure, agreed",
+        "translation": "Домовились, окей, згоден",
+        "origin": "Афроамериканський сленг 1990-2000-х років",
+        "note": "Коротка відповідь згоди що стала популярною через хіп-хоп культуру. Використовується молоддю в текстових повідомленнях та соцмережах. Еквівалент 'okay' чи 'sure'. Особливо популярне в TikTok та Twitter як швидка форма підтвердження або згоди з співрозмовником.",
+        "type": "Лексичні запозичення",
+        "audio": "bet.mp3"
+    },
+    {
+        "word": "beta",
+        "transcription": "[ˈbeɪtə]",
+        "meaning": "Testing version before release",
+        "translation": "Бета-версія",
+        "origin": "Розробка програмного забезпечення 1970-х років",
+        "note": "Тестова версія для виявлення проблем. Beta testers допомагають покращити продукт. Open betas є маркетинговою стратегією. Beta culture залучає комюніті в розробку.",
+        "type": "Лексичні запозичення",
+        "audio": "beta.mp3"
+    },
+    {
+        "word": "binge",
+        "transcription": "[bɪndʒ]",
+        "meaning": "Watch continuously",
+        "translation": "Дивитись підряд",
+        "origin": "Адаптовано Netflix культурою 2010-х",
+        "note": "Перегляд цілого сезону за один присід. Netflix заохочує binge-watching випускаючи всі епізоди одразу. Став нормою споживання контенту для молоді.",
+        "type": "Лексичні запозичення",
+        "audio": "binge.mp3"
+    },
+    {
+        "word": "blockchain",
+        "transcription": "[ˈblɒkˌtʃeɪn]",
+        "meaning": "Distributed digital ledger",
+        "translation": "Блокчейн, розподілена цифрова книга записів",
+        "origin": "Криптографія та фінансові технології 2008 року",
+        "note": "Технологія розподіленого реєстру для безпечного зберігання даних. Blockchain підтримує криптовалюти, особливо Біткойн.",
+        "type": "Бленд",
+        "audio": "blockchain.mp3"
+    },
+    {
+        "word": "blog",
+        "transcription": "[blɒɡ]",
+        "meaning": "Website with regular posts",
+        "translation": "Блог, вебсайт з регулярними постами",
+        "origin": "Інтернет 1990-х років",
+        "note": "Вебсайт, де автор регулярно публікує статті. Блоги дозволили звичайним людям мати голос в Інтернеті.",
+        "type": "Неологізм",
+        "audio": "blog.mp3"
+    },
+    {
+        "word": "bot",
+        "transcription": "[bɒt]",
+        "meaning": "Automated program online",
+        "translation": "Бот, автоматична програма",
+        "origin": "Комп'ютерні мережі 1990-х років",
+        "note": "Програма, що автоматично виконує завдання в мережі. Використовується для збору інформації та взаємодії з користувачами без участі людини.",
+        "type": "Неологізм",
+        "audio": "bot.mp3"
+    },
+    {
+        "word": "bougie",
+        "transcription": "[ˈbuːʒi]",
+        "meaning": "Acting high-class",
+        "translation": "Чваниться",
+        "origin": "Скорочення 'bourgeois' через афроамериканський сленг",
+        "note": "Описує поведінку людини що намагається виглядати fancy. Використовується жартома на TikTok та Twitter. Популярний у мемах про treating yourself.",
+        "type": "Лексичні запозичення",
+        "audio": "bougie.mp3"
+    },
+    {
+        "word": "BRB",
+        "transcription": "[ˌbiː ɑːr ˈbiː]",
+        "meaning": "Be right back",
+        "translation": "Негайно повернуся",
+        "origin": "Чати та миттєві месенджери 1990-х років",
+        "note": "Акронім, що позначає, що користувач тимчасово покидає чат. BRB був популярний в ранніх інтернет-чатах.",
+        "type": "Акронім",
+        "audio": "brb.mp3"
+    },
+    {
+        "word": "breadcrumbing",
+        "transcription": "[ˈbredkrʌmɪŋ]",
+        "meaning": "Giving minimal attention to keep someone interested",
+        "translation": "Підтримка мінімального інтересу",
+        "origin": "Dating термінологія та психологія 2010-х",
+        "note": "Маніпулятивна тактика давання достатньо уваги щоб тримати зацікавленість. Breadcrumbing є формою stringing along. Популярна тема в dating TikTok. Розпізнання breadcrumbing допомагає уникнути токсичних динамік.",
+        "type": "Неологізм",
+        "audio": "breadcrumbing.mp3"
+    },
+    {
+        "word": "bro",
+        "transcription": "[broʊ]",
+        "meaning": "Friend, buddy, brother",
+        "translation": "Друже, чувак, брате",
+        "origin": "Молодіжний сленг 1980-х років",
+        "note": "Неформальний термін для звернення до друга. 'Bro' став універсальним способом звертання серед молоді. Часто використовується в іроніці та жартах в інтернеті.",
+        "type": "Усічення",
+        "audio": "bro.mp3"
+    },
+    {
+        "word": "browser",
+        "transcription": "[ˈbraʊzər]",
+        "meaning": "Internet web browser software",
+        "translation": "Веб-браузер, програма для перегляду інтернету",
+        "origin": "Веб-технології 1990-х років",
+        "note": "Програмне забезпечення для перегляду вебсайтів. Браузери стали невід'ємним інструментом для доступу до онлайн-контенту.",
+        "type": "Лексичні запозичення",
+        "audio": "browser.mp3"
+    },
+    {
+        "word": "bruh",
+        "transcription": "[brʌ]",
+        "meaning": "Brother, friend with emphasis",
+        "translation": "Брате, друже з наголосом",
+        "origin": "Афроамериканський та молодіжний сленг",
+        "note": "Варіація слова 'bro' з більш експресивним звучанням. 'Bruh' часто використовується для вираження здивування або лінощів. Популярна в мемах та на YouTube.",
+        "type": "Усічення",
+        "audio": "bruh.mp3"
+    },
+    {
+        "word": "buff",
+        "transcription": "[bʌf]",
+        "meaning": "To strengthen a game element",
+        "translation": "Посилити елемент гри",
+        "origin": "Ігровий сленг та гейм-дизайн 1990-х років",
+        "note": "Дієслово для посилення персонажа чи зброї розробниками. 'They buffed the character' означає посилення. Протилежна 'nerf'.",
+        "type": "Лексичні запозичення",
+        "audio": "buff.mp3"
+    },
+    {
+        "word": "bug",
+        "transcription": "[bʌɡ]",
+        "meaning": "Error or flaw in software",
+        "translation": "Баґ, помилка або невідповідність у програмному забезпеченні",
+        "origin": "Комп'ютерна сфера 1940-х років",
+        "note": "Невідповідність у програмному коді, що спричиняє неправильну роботу. Пошук та виправлення помилок називається 'debugging'.",
+        "type": "Лексичні запозичення",
+        "audio": "bug.mp3"
+    },
+    {
+        "word": "bussin",
+        "transcription": "[ˈbʌsɪn]",
+        "meaning": "Really good, fire, excellent",
+        "translation": "Дуже добре, вогняно, відмінно",
+        "origin": "Афроамериканський сленг, популяризований в інтернеті 2010-х років",
+        "note": "Прикметник для опису чогось вражаючого. 'That song is bussin' означає, що пісня дуже хороша. Популярна на TikTok серед молоді.",
+        "type": "Семантичний зсув",
+        "audio": "bussin.mp3"
+    },
+    {
+        "word": "byte",
+        "transcription": "[baɪt]",
+        "meaning": "Unit of digital information",
+        "translation": "Байт, одиниця цифрової інформації",
+        "origin": "Комп'ютерна архітектура 1950-х років",
+        "note": "Одиниця цифрової інформації, що дорівнює 8 бітам. Байт є базовою одиницею для вимірювання розмірів файлів.",
+        "type": "Лексичні запозичення",
+        "audio": "byte.mp3"
+    },
+    {
+        "word": "cache",
+        "transcription": "[kæʃ]",
+        "meaning": "Fast storage for frequently accessed data",
+        "translation": "Кеш, швидке сховище для часто отримуваних даних",
+        "origin": "Комп'ютерна архітектура 1960-х років",
+        "note": "Тип пам'яті для зберігання часто використовуваних даних. Кеш розташовується між процесором та головною пам'яттю.",
+        "type": "Лексичні запозичення",
+        "audio": "cache.mp3"
+    },
+    {
+        "word": "camper",
+        "transcription": "[ˈkæmpər]",
+        "meaning": "Player who hides and waits",
+        "translation": "Гравець, що ховається й чекає",
+        "origin": "Ігровий сленг 2000-х років",
+        "note": "Іменник для гравця, який ховається на одному місці. 'Camper' часто розглядається як несправедлива тактика. Породило виразу 'stop camping'.",
+        "type": "Лексичні запозичення",
+        "audio": "camper.mp3"
+    },
+    {
+        "word": "canceled",
+        "transcription": "[ˈkænsəld]",
+        "meaning": "Publicly boycotted",
+        "translation": "Публічно бойкотований",
+        "origin": "Cancel culture з Twitter 2010-х",
+        "note": "Коли громадськість відмовляється від підтримки знаменитості через controversial дії. Став центром debates про accountability vs mob justice. Популярний у Twitter discourse про consequences.",
+        "type": "Семантичний зсув",
+        "audio": "canceled.mp3"
+    },
+    {
+        "word": "canon",
+        "transcription": "[ˈkænən]",
+        "meaning": "Official version in fictional universe",
+        "translation": "Канон, офіційна версія",
+        "origin": "Релігійні тексти адаптовані фандомами 2000-х",
+        "note": "Офіційна версія подій у всесвіті франшизи. Canon vs fanon дебати популярні. Canon ships є офіційними парами. Canon концепція критична для розуміння фандомної культури та дискусій.",
+        "type": "Лексичні запозичення",
+        "audio": "canon.mp3"
+    },
+    {
+        "word": "cap",
+        "transcription": "[kæp]",
+        "meaning": "Lie or exaggeration",
+        "translation": "Брехня або перебільшення",
+        "origin": "Афроамериканський сленг 2010-х років",
+        "note": "Іменник для брехні. 'No cap' означає 'не брешу'. Cap став популярним на TikTok.",
+        "type": "Лексичні запозичення",
+        "audio": "cap.mp3"
+    },
+    {
+        "word": "casual",
+        "transcription": "[ˈkæʒuəl]",
+        "meaning": "Non-competitive relaxed gaming",
+        "translation": "Кежуал, неконкурентний",
+        "origin": "Геймінг культура 2000-х років",
+        "note": "Релаксований підхід до геймінгу без серйозності. Casual games доступні для всіх. Протилежність hardcore геймінгу. Casual vs hardcore дебати визначають геймерську ідентичність.",
+        "type": "Лексичні запозичення",
+        "audio": "casual.mp3"
+    },
+    {
+        "word": "CEO",
+        "transcription": "[ˌsiː iː ˈəʊ]",
+        "meaning": "Chief Executive Officer, but used to mean expert at something",
+        "translation": "Експерт, найкращий в чомусь",
+        "origin": "Бізнес-термін переосмислений в TikTok 2019-2020",
+        "note": "Бізнес-титул що став комплементом в TikTok. 'CEO of dancing' означає найкращий танцюрист. Іронічний та жартівливий спосіб похвалити майстерність. Використовується в коментарях та описах. Показує як Gen Z переосмислює корпоративну лексику для власної культури.",
+        "type": "Ініціалізм",
+        "audio": "ceo.mp3"
+    },
+    {
+        "word": "cheese",
+        "transcription": "[tʃiːz]",
+        "meaning": "Unfair or exploitative strategy",
+        "translation": "Чіз, експлойт стратегія",
+        "origin": "Геймінг та RTS ігри 1990-х років",
+        "note": "Стратегія що використовує дисбаланс чи exploits. Cheese strategies часто контроверсійні. Може бути ефективним але не респектабельним. Cheese тактики тестують межі fair play в конкурентному геймінгу.",
+        "type": "Семантичний зсув",
+        "audio": "cheese.mp3"
+    },
+    {
+        "word": "cheugy",
+        "transcription": "[ˈtʃuːɡi]",
+        "meaning": "Outdated millennial trends",
+        "translation": "Застарілі трендові речі",
+        "origin": "Gen Z сленг 2021 рік",
+        "note": "Опис outdated millennial тенденцій. Cheugy включає live-laugh-love декор, Rae Dunn. Gen Z vs Millennial культурна напруга. Cheugy став controversial терміном міжпоколінних дебатів.",
+        "type": "Неологізм",
+        "audio": "cheugy.mp3"
+    },
+    {
+        "word": "clapback",
+        "transcription": "[ˈklæpbæk]",
+        "meaning": "Sharp comeback",
+        "translation": "Різка відповідь",
+        "origin": "Усічення з афроамериканського сленгу 2000-х",
+        "note": "Влучна різка відповідь на критику чи образу. Популярний у Twitter драмах де знаменитості відповідають хейтерам. Часто стає вірусним контентом.",
+        "type": "Усічення",
+        "audio": "clapback.mp3"
+    },
+    {
+        "word": "clickbait",
+        "transcription": "[ˈklɪkbeɪt]",
+        "meaning": "Sensational content",
+        "translation": "Сенсаційний контент",
+        "origin": "Бленд 'click' + 'bait' 2010-х",
+        "note": "Маніпулятивні заголовки що змушують клікнути. Поширена практика на YouTube та новинних сайтах. Став негативним терміном що асоціюється з низькоякісним контентом.",
+        "type": "Бленд",
+        "audio": "clickbait.mp3"
+    },
+    {
+        "word": "cloud",
+        "transcription": "[klaʊd]",
+        "meaning": "Remote servers for data storage",
+        "translation": "Хмарне сховище, віддалені сервери для зберігання даних",
+        "origin": "Комп'ютерні технології 2000-х років",
+        "note": "Технологія зберігання даних на віддалених серверах. Cloud computing дозволяє користувачам отримувати доступ до файлів з будь-якого місця.",
+        "type": "Лексичні запозичення",
+        "audio": "cloud.mp3"
+    },
+    {
+        "word": "clout",
+        "transcription": "[klaʊt]",
+        "meaning": "Social influence",
+        "translation": "Соціальний вплив",
+        "origin": "Хіп-хоп термін популяризований 2010-х",
+        "note": "Онлайн слава, влада, вплив в соцмережах. 'Clout chasing' - негативний термін для тих хто робить все заради уваги. Популярний у discussions про influencer культуру на Twitter та TikTok.",
+        "type": "Семантичний зсув",
+        "audio": "clout.mp3"
+    },
+    {
+        "word": "clutch",
+        "transcription": "[klʌtʃ]",
+        "meaning": "To make crucial save or play",
+        "translation": "Зробити вирішальний ход чи спасіння",
+        "origin": "Спортивний та ігровий сленг",
+        "note": "Дієслово для опису вирішального ходу. 'That was clutch' означає, що хід змінив гру. Популярна серед геймерів та спортивних фанатів.",
+        "type": "Лексичні запозичення",
+        "audio": "clutch.mp3"
+    },
+    {
+        "word": "collab",
+        "transcription": "[kəˈlæb]",
+        "meaning": "Collaboration",
+        "translation": "Співпраця",
+        "origin": "Усічення від 'collaboration' через YouTube 2010-х",
+        "note": "Спільний проєкт між креаторами контенту. Один з найефективніших способів зростання аудиторії на YouTube та TikTok. Відображає collaborative nature креаторської економіки.",
+        "type": "Усічення",
+        "audio": "collab.mp3"
+    },
+    {
+        "word": "cope",
+        "transcription": "[koʊp]",
+        "meaning": "Deal with situation",
+        "translation": "Справлятися з ситуацією",
+        "origin": "Мемна культура 2020-х років",
+        "note": "Спосіб впоратися з розчаруванням або поразкою часто з іронією. Популярний у мемах та Twitter для опису механізмів самозахисту. Використовується як sarcastically так і genuinely.",
+        "type": "Лексичні запозичення",
+        "audio": "cope.mp3"
+    },
+    {
+        "word": "copypasta",
+        "transcription": "[ˈkɒpiːpɑːstə]",
+        "meaning": "Copied text meme",
+        "translation": "Скопійований текст-мем",
+        "origin": "Бленд 'copy-paste' з мемної культури 2000-х",
+        "note": "Текст що копіюється та поширюється по інтернету як мем. Популярний на Reddit, Discord та Twitch chat. Відображає культуру повторення контенту в інтернеті.",
+        "type": "Усічення",
+        "audio": "copypasta.mp3"
+    },
+    {
+        "word": "cottagecore",
+        "transcription": "[ˈkɒtɪdʒkɔːr]",
+        "meaning": "Romanticized rural aesthetic",
+        "translation": "Сільська романтична естетика",
+        "origin": "TikTok та Pinterest 2019-2020",
+        "note": "Романтизована сільська natural aesthetic. Cottagecore популяризувався під час пандемії. Включає випічку, квіти, vintage одяг. Cottagecore є escape від сучасної напруги в pastoral fantasy.",
+        "type": "Бленд",
+        "audio": "cottagecore.mp3"
+    },
+    {
+        "word": "CPU",
+        "transcription": "[ˌsiː piː ˈjuː]",
+        "meaning": "Central processing unit",
+        "translation": "Центральний процесор",
+        "origin": "Комп'ютерна архітектура 1960-х років",
+        "note": "Головний компонент комп'ютера, що виконує обчислення. CPU є 'мозком' комп'ютера.",
+        "type": "Акронім",
+        "audio": "cpu.mp3"
+    },
+    {
+        "word": "crash",
+        "transcription": "[kræʃ]",
+        "meaning": "Sudden failure of software",
+        "translation": "Краш, аварійне завершення",
+        "origin": "Комп'ютерні системи 1960-х років",
+        "note": "Раптова зупинка програми чи системи. 'Game crashed' фруструє всіх геймерів. Crash reports допомагають розробникам. Crashes є частиною цифрового життя що нагадує про недосконалість технологій.",
+        "type": "Лексичні запозичення",
+        "audio": "crash.mp3"
+    },
+    {
+        "word": "cringe",
+        "transcription": "[krɪndʒ]",
+        "meaning": "Something embarrassing or awkward",
+        "translation": "Щось збентежене, незручне, гидке",
+        "origin": "Інтернет-культура 2010-х років",
+        "note": "Термін, що описує відчуття смутку від чогось соціально незручного. Популяризоване мемами та TikTok-культурою серед підлітків.",
+        "type": "Семантичний зсув",
+        "audio": "cringe.mp3"
+    },
+    {
+        "word": "cryptocurrency",
+        "transcription": "[ˌkrɪptəʊˈkʌrənsi]",
+        "meaning": "Digital currency",
+        "translation": "Цифрова валюта",
+        "origin": "Бленд 'crypto' + 'currency' 2009",
+        "note": "Децентралізована цифрова валюта як Bitcoin. Став популярним інвестиційним трендом серед молоді. Відображає інтерес Gen Z до альтернативних фінансових систем.",
+        "type": "Бленд",
+        "audio": "cryptocurrency.mp3"
+    },
+    {
+        "word": "CSS",
+        "transcription": "[ˌsiː es ˈes]",
+        "meaning": "Cascading style sheets",
+        "translation": "Каскадні таблиці стилів",
+        "origin": "Веб-стандарти 1994 року",
+        "note": "Мова для стилізації вебсторінок та контролю зовнішнього вигляду. CSS еволюціонував від базових стилів до складних макетів.",
+        "type": "Акронім",
+        "audio": "css.mp3"
+    },
+    {
+        "word": "dark academia",
+        "transcription": "[dɑːrk ˌækəˈdiːmiə]",
+        "meaning": "Gothic scholarly aesthetic",
+        "translation": "Готична академічна естетика",
+        "origin": "TikTok та Tumblr 2019-2020",
+        "note": "Aesthetic натхненний класичною освітою та готикою. Dark academia включає бібліотеки, твід, класику. Популярний серед студентів та книголюбів. Dark academia romanticizes інтелектуальне життя з драматичним flair.",
+        "type": "Неологізм",
+        "audio": "dark_academia.mp3"
+    },
+    {
+        "word": "database",
+        "transcription": "[ˈdeɪtəbeɪs]",
+        "meaning": "Organized collection of data",
+        "translation": "База даних, організована сукупність даних",
+        "origin": "Комп'ютерні системи 1960-х років",
+        "note": "Структурована система організації та зберігання великої кількості інформації. Бази даних використовуються в усіх сферах життя.",
+        "type": "Лексичні запозичення",
+        "audio": "database.mp3"
+    },
+    {
+        "word": "deepfake",
+        "transcription": "[ˈdiːpfeɪk]",
+        "meaning": "AI-generated fake",
+        "translation": "Підробка створена AI",
+        "origin": "Бленд 'deep learning' + 'fake' 2017",
+        "note": "Відео створені AI де обличчя замінено на інше. Викликає етичні питання про дезінформацію. Став серйозною проблемою в епоху viral контенту.",
+        "type": "Бленд",
+        "audio": "deepfake.mp3"
+    },
+    {
+        "word": "delulu",
+        "transcription": "[dɪˈluːluː]",
+        "meaning": "Delusional, having unrealistic beliefs",
+        "translation": "Ілюзорний, нереалістичний",
+        "origin": "K-pop фандоми та TikTok 2021-2022",
+        "note": "Усічення від 'delusional' популярне в K-pop фанатських спільнотах. Використовується жартома про нереалістичні очікування. Вірусне в TikTok для самоіронії. Фраза 'delulu is the solulu' (ілюзії це рішення) стала мемом про утримування надії всупереч реальності.",
+        "type": "Усічення",
+        "audio": "delulu.mp3"
+    },
+    {
+        "word": "DLC",
+        "transcription": "[ˌdiː el ˈsiː]",
+        "meaning": "Downloadable Content",
+        "translation": "Завантажуваний контент",
+        "origin": "Цифрова дистрибуція ігор 2000-х років",
+        "note": "Додатковий контент для ігор після випуску. DLC може бути платним чи безкоштовним. Controversies навколо DLC цін. DLC модель змінила як розробники підтримують та монетизують ігри.",
+        "type": "Ініціалізм",
+        "audio": "dlc.mp3"
+    },
+    {
+        "word": "DM",
+        "transcription": "[ˌdiː ˈem]",
+        "meaning": "Direct message",
+        "translation": "Прямі повідомлення, особисте повідомлення",
+        "origin": "Соціальні мережі та месенджери 2000-х років",
+        "note": "Ініціалізм, що позначає приватне повідомлення в соціальній мережі. DM використовується як у письмовій формі, так і як дієслово.",
+        "type": "Ініціалізм",
+        "audio": "dm.mp3"
+    },
+    {
+        "word": "doomscrolling",
+        "transcription": "[ˈduːmskroʊlɪŋ]",
+        "meaning": "Endless scrolling negative news",
+        "translation": "Безкінечне scrolling негативних новин",
+        "origin": "Неологізм пандемії COVID-19 2020",
+        "note": "Компульсивне scrolling через негативні новини незважаючи на negative impact. Став особливо relevant під час пандемії. Відображає addictive nature соцмереж та їх вплив на mental health молоді.",
+        "type": "Неологізм",
+        "audio": "doomscrolling.mp3"
+    },
+    {
+        "word": "download",
+        "transcription": "[ˈdaʊnloʊd]",
+        "meaning": "Transfer data from internet to device",
+        "translation": "Завантаження даних з інтернету на пристрій",
+        "origin": "Комп'ютерні мережі 1990-х років",
+        "note": "Процес передачі файлів з сервера на персональний комп'ютер. Download є однією з найважливіших операцій в цифровому середовищі.",
+        "type": "Лексичні запозичення",
+        "audio": "download.mp3"
+    },
+    {
+        "word": "dox",
+        "transcription": "[dɒks]",
+        "meaning": "Publish private information",
+        "translation": "Розповсюджувати приватну інформацію про когось",
+        "origin": "Хакерське співтовариство 1990-х років",
+        "note": "Розповсюджування приватної інформації з ворожими намірами. Doxing є формою кіберзлупства.",
+        "type": "Лексичні запозичення",
+        "audio": "dox.mp3"
+    },
+    {
+        "word": "doxxing",
+        "transcription": "[ˈdɒksɪŋ]",
+        "meaning": "Publishing private info",
+        "translation": "Публікація приватної інформації",
+        "origin": "Усічення 'documents' в хакерській культурі",
+        "note": "Зловмисне оприлюднення чиєїсь особистої інформації онлайн. Серйозна проблема безпеки що може призвести до harassment. Молодь повинна захищати свою приватність.",
+        "type": "Усічення",
+        "audio": "doxxing.mp3"
+    },
+    {
+        "word": "drip",
+        "transcription": "[drɪp]",
+        "meaning": "Stylish appearance",
+        "translation": "Стильний вигляд",
+        "origin": "Хіп-хоп сленг 2010-х",
+        "note": "Описує виключно стильний одяг або загальний вигляд. Надзвичайно популярний у TikTok fashion-контенті. Відображає важливість самовираження через моду в культурі Gen Z.",
+        "type": "Усічення",
+        "audio": "drip.mp3"
+    },
+    {
+        "word": "dupe",
+        "transcription": "[djuːp]",
+        "meaning": "Affordable alternative",
+        "translation": "Доступна альтернатива",
+        "origin": "Усічення від 'duplicate' через TikTok 2020-х",
+        "note": "Дешевший аналог дорогого продукту. Величезний тренд на TikTok де блогери шукають доступні альтернативи люксовим брендам. Відображає споживчу культуру Gen Z.",
+        "type": "Усічення",
+        "audio": "dupe.mp3"
+    },
+    {
+        "word": "ELI5",
+        "transcription": "[ˌiː el aɪ ˈfaɪv]",
+        "meaning": "Explain Like I'm 5",
+        "translation": "Поясни як п'ятирічній дитині",
+        "origin": "Reddit субредит r/explainlikeimfive 2011-теперішній час",
+        "note": "Прохання про просте пояснення складної теми. Популярний Reddit субредит з мільйонами підписників. Використовується для демістифікації науки та технологій. ELI5 підхід став стандартом для освітнього контенту що робить знання доступним всім.",
+        "type": "Ініціалізм",
+        "audio": "eli5.mp3"
+    },
+    {
+        "word": "email",
+        "transcription": "[ˈiːmeɪl]",
+        "meaning": "Electronic mail",
+        "translation": "Електронна пошта, повідомлення через Інтернет",
+        "origin": "Комп'ютерні мережі 1970-х років",
+        "note": "Система обміну повідомленнями через Інтернет. Email став основним інструментом ділової та особистої комунікації.",
+        "type": "Лексичні запозичення",
+        "audio": "email.mp3"
+    },
+    {
+        "word": "emoji",
+        "transcription": "[ɪˈmoʊdʒi]",
+        "meaning": "Small pictograph for communication",
+        "translation": "Емодзі, малий значок для цифрової комунікації",
+        "origin": "Японія 1990-х років",
+        "note": "Малі графічні символи для вираження емоцій у текстових повідомленнях. Емодзі допомагають передати тон та емоційний контекст.",
+        "type": "Лексичні запозичення",
+        "audio": "emoji.mp3"
+    },
+    {
+        "word": "extra",
+        "transcription": "[ˈekstrə]",
+        "meaning": "Over the top",
+        "translation": "Надмірний",
+        "origin": "LGBTQ+ сленг 2000-х",
+        "note": "Описує поведінку що занадто драматична або показова. Популярний на TikTok для опису theatrical реакцій. Може використовуватись як комплімент або критика.",
+        "type": "Лексичні запозичення",
+        "audio": "extra.mp3"
+    },
+    {
+        "word": "fam",
+        "transcription": "[fæm]",
+        "meaning": "Family, close friends",
+        "translation": "Сім'я, близькі друзі",
+        "origin": "Молодіжний сленг 1990-х років",
+        "note": "Термін для звернення до групи друзів як до сім'ї. 'Fam' використовується для позначення близьких людей. Популярна у спортивних та музичних спільнотах.",
+        "type": "Усічення",
+        "audio": "fam.mp3"
+    },
+    {
+        "word": "FAQ",
+        "transcription": "[ˌef eɪ ˈkjuː]",
+        "meaning": "Frequently asked questions",
+        "translation": "Часто задавані питання",
+        "origin": "Веб-дизайн та документація 1990-х років",
+        "note": "Розділ на вебсайтах з відповідями на поширені питання. Добре організована FAQ поліпшує досвід користувача.",
+        "type": "Акронім",
+        "audio": "faq.mp3"
+    },
+    {
+        "word": "finsta",
+        "transcription": "[ˈfɪnstə]",
+        "meaning": "Fake Instagram",
+        "translation": "Фейковий Instagram",
+        "origin": "Бленд 'fake' + 'insta' 2015-х",
+        "note": "Приватний Instagram для близьких друзів з справжнім контентом. Протилежність публічного 'rinsta'. Відображає дуальність online-особистості та тиск ідеального життя в соцмережах.",
+        "type": "Усічення",
+        "audio": "finsta.mp3"
+    },
+    {
+        "word": "fintech",
+        "transcription": "[ˈfɪntek]",
+        "meaning": "Financial technology",
+        "translation": "Фінансові технології",
+        "origin": "Бленд 'financial' + 'technology' 2010-х",
+        "note": "Індустрія що поєднує фінанси та технології. Включає криптовалюти та цифрові банки. Відображає перехід покоління Z до cashless економіки.",
+        "type": "Усічення",
+        "audio": "fintech.mp3"
+    },
+    {
+        "word": "fire",
+        "transcription": "[ˈfaɪər]",
+        "meaning": "Excellent, amazing",
+        "translation": "Чудовий, приголомшливий",
+        "origin": "Хіп-хоп сленг 2000-х адаптований mainstream",
+        "note": "Емодзі вогню та слово для опису щось неймовірного. Використовується для музики, outfit'ів, будь-якого контенту. Став універсальним комплиментом у соцмережах особливо Instagram та TikTok.",
+        "type": "Семантичний зсув",
+        "audio": "fire.mp3"
+    },
+    {
+        "word": "firewall",
+        "transcription": "[ˈfaɪərwɔːl]",
+        "meaning": "Network security system",
+        "translation": "Брандмауер, система мережевої безпеки",
+        "origin": "Комп'ютерна безпека 1990-х років",
+        "note": "Система, що контролює вхідний та вихідний трафік мережі. Firewall розроблено для захисту від несанкціонованого доступу.",
+        "type": "Лексичні запозичення",
+        "audio": "firewall.mp3"
+    },
+    {
+        "word": "flex",
+        "transcription": "[fleks]",
+        "meaning": "Show off or display proudly",
+        "translation": "Хвастатися, гордо показувати",
+        "origin": "Сучасний сленг 2010-х років",
+        "note": "Демонстрація своїх досягнень чи статків в соціальних мережах. Flex став популярним серед молоді.",
+        "type": "Лексичні запозичення",
+        "audio": "flex.mp3"
+    },
+    {
+        "word": "FOMO",
+        "transcription": "[ˈfoʊmoʊ]",
+        "meaning": "Fear of missing out",
+        "translation": "Страх пропустити важливе",
+        "origin": "Соціальні мережи та мобільна комунікація 2010-х років",
+        "note": "Акронім, що описує тривогу про пропущення цікавих подій. FOMO виник з розвитком Instagram та смартфонів.",
+        "type": "Акронім",
+        "audio": "fomo.mp3"
+    },
+    {
+        "word": "freeze",
+        "transcription": "[friːz]",
+        "meaning": "System stops responding",
+        "translation": "Фріз, зависання",
+        "origin": "Комп'ютерні проблеми 1980-х років",
+        "note": "Коли програма перестає відповідати на команди. Screen freeze вимагає перезапуску. Freezing під час важливого моменту фруструє. Freeze проблеми тестують терпіння всіх комп'ютерних користувачів.",
+        "type": "Семантичний зсув",
+        "audio": "freeze.mp3"
+    },
+    {
+        "word": "FWIW",
+        "transcription": "[ef ˈdʌbljuː aɪ ˈdʌbljuː]",
+        "meaning": "For What It's Worth",
+        "translation": "Якщо це щось варте",
+        "origin": "Форумний ініціалізм 2000-х",
+        "note": "Використовується перед висловленням думки яка може бути не дуже важливою. Популярний на Reddit та Twitter для скромного внеску в дискусію. Відображає self-aware комунікацію онлайн.",
+        "type": "Ініціалізм",
+        "audio": "fwiw.mp3"
+    },
+    {
+        "word": "FYP",
+        "transcription": "[ef waɪ piː]",
+        "meaning": "For You Page",
+        "translation": "Сторінка для тебе",
+        "origin": "TikTok алгоритмічна сторінка 2018-2020",
+        "note": "Головна стрічка TikTok з персоналізованим контентом. Потрапити у FYP - мрія кожного креатора. Став символом успіху та популярності в TikTok-культурі.",
+        "type": "Акронім",
+        "audio": "fyp.mp3"
+    },
+    {
+        "word": "gank",
+        "transcription": "[ɡæŋk]",
+        "meaning": "To ambush and kill a player",
+        "translation": "Засідка й убивство гравця",
+        "origin": "Ігровий сленг та RPG-спільнота",
+        "note": "Дієслово для засідки на гравця кількома суперниками. 'I got ganked' означає, що його убили групою. Часто сприймається як несправедливо в іграх.",
+        "type": "Неологізм",
+        "audio": "gank.mp3"
+    },
+    {
+        "word": "gaslighting",
+        "transcription": "[ˈɡæslaɪtɪŋ]",
+        "meaning": "Manipulating someone to doubt reality",
+        "translation": "Газлайтинг, психологічна маніпуляція",
+        "origin": "П'єса 'Gas Light' 1938 популяризована TikTok",
+        "note": "Психологічна маніпуляція що змушує сумніватися в реальності. Термін став mainstream через TikTok psychology. Важливий для розпізнання абьюзу. Gaslighting awareness допомагає жертвам маніпуляції розпізнати проблему.",
+        "type": "Неологізм",
+        "audio": "gaslighting.mp3"
+    },
+    {
+        "word": "gatekeeping",
+        "transcription": "[ˈɡeɪtkiːpɪŋ]",
+        "meaning": "Restricting access to community or interest",
+        "translation": "Обмеження доступу до спільноти",
+        "origin": "Інтернет-культура 2010-х років",
+        "note": "Виключна поведінка що обмежує хто може бути фаном. Gatekeeping є токсичним в фан-комюніті. 'Let people enjoy things' є anti-gatekeeping мантрою. Gatekeeping дискусії популярні в fandom spaces.",
+        "type": "Неологізм",
+        "audio": "gatekeeping.mp3"
+    },
+    {
+        "word": "geek",
+        "transcription": "[ɡiːk]",
+        "meaning": "Tech enthusiast",
+        "translation": "Ґік, любитель технологій, комп'ютерний експерт",
+        "origin": "Популярна культура 1980-х років",
+        "note": "Людина, яка глибоко цікавиться комп'ютерами та технологіями. Раніше термін мав негативне значення, але сьогодні він позитивний.",
+        "type": "Лексичні запозичення",
+        "audio": "geek.mp3"
+    },
+    {
+        "word": "gg",
+        "transcription": "[ˌdʒiː ˈdʒiː]",
+        "meaning": "Good game",
+        "translation": "Гарна гра, це було добре",
+        "origin": "Ігровий сленг 1990-х років",
+        "note": "Акронім для вираження поваги до суперника. 'GG' зазвичай говориться в кінці гри. Це ознака гарного спортивного духу в іграх.",
+        "type": "Акронім",
+        "audio": "gg.mp3"
+    },
+    {
+        "word": "GG",
+        "transcription": "[ˌdʒiː ˈdʒiː]",
+        "meaning": "Good Game",
+        "translation": "Гарна гра",
+        "origin": "Онлайн-ігри та e-sports 1990-х років",
+        "note": "Універсальний акронім спортсменства в геймінгу. GG наприкінці матчу є знаком поваги. 'GG EZ' більш провокативний варіант. GG культура відображає кодекс честі геймерів та онлайн-етикет.",
+        "type": "Ініціалізм",
+        "audio": "gg.mp3"
+    },
+    {
+        "word": "ghosting",
+        "transcription": "[ˈɡoʊstɪŋ]",
+        "meaning": "Suddenly stopping all communication",
+        "translation": "Раптове припинення спілкування без пояснень",
+        "origin": "Соціальні мережи та онлайн-знайомства 2010-х років",
+        "note": "Раптове припинення спілкування без будь-якого пояснення. Явище стало поширеним в епоху онлайн-знайомств.",
+        "type": "Неологізм",
+        "audio": "ghosting.mp3"
+    },
+    {
+        "word": "GIF",
+        "transcription": "[ˈdʒɪf]",
+        "meaning": "Graphics interchange format",
+        "translation": "Формат обміну графіки",
+        "origin": "Формати зображень 1987 року",
+        "note": "Формат, що підтримує анімацію та короткі анімовані відео. GIF стала невід'ємною частиною інтернет-культури.",
+        "type": "Акронім",
+        "audio": "gif.mp3"
+    },
+    {
+        "word": "give",
+        "transcription": "[ɡɪv]",
+        "meaning": "To emanate or project a quality",
+        "translation": "Випромінювати, демонструвати якусь якість",
+        "origin": "LGBTQ+ та афроамериканський сленг, популяризований в інтернеті",
+        "note": "Дієслово для опису того, що людина випромінює. 'She gives luxury' означає, що вона має люксусний вигляд. Стало трендовим на TikTok та в молодіжних чатах.",
+        "type": "Семантичний зсув",
+        "audio": "give.mp3"
+    },
+    {
+        "word": "glitch",
+        "transcription": "[ɡlɪtʃ]",
+        "meaning": "Technical error or aesthetic",
+        "translation": "Технічна помилка або естетика",
+        "origin": "Технічний термін став aesthetic 2010-х",
+        "note": "З технічної помилки перетворився на мистецьку естетику. Glitch art популярний у TikTok edits та music videos. Відображає embrace недосконалості та digital aesthetic в Gen Z культурі.",
+        "type": "Семантичний зсув",
+        "audio": "glitch.mp3"
+    },
+    {
+        "word": "glow up",
+        "transcription": "[ɡləʊ ʌp]",
+        "meaning": "Significant positive transformation",
+        "translation": "Позитивна трансформація",
+        "origin": "Хіп-хоп та соцмережі 2010-х років",
+        "note": "Драматична позитивна зміна зовнішності чи життя. Glow up transformations популярні в TikTok. Може бути фізичним чи mental. Glow up культура мотивує self-improvement.",
+        "type": "Неологізм",
+        "audio": "glow_up.mp3"
+    },
+    {
+        "word": "GOAT",
+        "transcription": "[ɡoʊt]",
+        "meaning": "Greatest Of All Time",
+        "translation": "Найкращий з усіх часів",
+        "origin": "Акронім з американської спортивної культури 1990-2000-х",
+        "note": "Популярний акронім для позначення найкращого у своїй сфері. Широко використовується в Instagram, TikTok та Twitter. Став частиною молодіжної культури через мемну спільноту.",
+        "type": "Акронім",
+        "audio": "goat.mp3"
+    },
+    {
+        "word": "GPU",
+        "transcription": "[ˌdʒiː piː ˈjuː]",
+        "meaning": "Graphics processing unit",
+        "translation": "Графічний процесор",
+        "origin": "Комп'ютерна графіка 1990-х років",
+        "note": "Спеціалізований процесор для обробки графіки та зображень. GPU необхідні для запуску сучасних ігор.",
+        "type": "Акронім",
+        "audio": "gpu.mp3"
+    },
+    {
+        "word": "green flag",
+        "transcription": "[ɡriːn flæɡ]",
+        "meaning": "Positive sign in relationship",
+        "translation": "Зелений прапорець, позитив",
+        "origin": "Антитеза red flags 2020-х років",
+        "note": "Позитивні якості в партнері чи друзі. Green flag lists популярні в dating TikTok. Допомагає розпізнати здорові стосунки. Green flag концепція балансує негатив-фокус red flags.",
+        "type": "Неологізм",
+        "audio": "green_flag.mp3"
+    },
+    {
+        "word": "grind",
+        "transcription": "[ɡraɪnd]",
+        "meaning": "Repetitive gameplay for rewards",
+        "translation": "Грайнд, монотонна гра",
+        "origin": "MMO та RPG ігри 1990-2000-х років",
+        "note": "Повторювані дії для прогресії в іграх. Grinding може бути медитативним чи нудним. Korean MMOs славляться інтенсивним grind. Grind культура відображає dedication та терпіння геймерів.",
+        "type": "Семантичний зсув",
+        "audio": "grind.mp3"
+    },
+    {
+        "word": "GRWM",
+        "transcription": "[dʒiː ɑːr ˈdʌbljuː em]",
+        "meaning": "Get Ready With Me",
+        "translation": "Готуйся зі мною",
+        "origin": "YouTube та TikTok акронім 2015-2020-х",
+        "note": "Формат відео де блогер показує процес підготовки до виходу. Надзвичайно популярний жанр на YouTube та TikTok серед beauty-спільноти. Створює відчуття дружби з автором.",
+        "type": "Акронім",
+        "audio": "grwm.mp3"
+    },
+    {
+        "word": "hacker",
+        "transcription": "[ˈhækər]",
+        "meaning": "Skilled computer programmer",
+        "translation": "Хакер, досвідчений програміст",
+        "origin": "Комп'ютерна субкультура 1960-х років",
+        "note": "Людина з глибокими знаннями комп'ютерів. Етичні хакери тестують безпеку для компаній.",
+        "type": "Лексичні запозичення",
+        "audio": "hacker.mp3"
+    },
+    {
+        "word": "hard launch",
+        "transcription": "[hɑːrd lɔːntʃ]",
+        "meaning": "Officially announcing relationship publicly",
+        "translation": "Офіційне оголошення стосунків",
+        "origin": "Instagram культура 2020-х років",
+        "note": "Офіційне публічне оголошення стосунків з фото. Hard launch робить стосунки Instagram official. Символічний крок в сучасних стосунках. Hard launch момент є milestone для пар.",
+        "type": "Лексичні запозичення",
+        "audio": "hard_launch.mp3"
+    },
+    {
+        "word": "hardcore",
+        "transcription": "[ˈhɑːrdkɔːr]",
+        "meaning": "Extreme difficulty mode",
+        "translation": "Екстремальний рівень складності",
+        "origin": "Ігровий сленг та культура 1990-х років",
+        "note": "Режим гри з найвищою складністю. 'Hardcore mode' часто означає, що гравця можна вбити один раз. Популярна у грах на виживання.",
+        "type": "Лексичні запозичення",
+        "audio": "hardcore.mp3"
+    },
+    {
+        "word": "hashtag",
+        "transcription": "[ˈhæʃtæɡ]",
+        "meaning": "Keyword marker with # on social media",
+        "translation": "Хештег, ключове слово позначене символом # на соціальних мережах",
+        "origin": "Соціальні мережи 2007 року (Twitter)",
+        "note": "Слово позначене символом '#' для категоризації контенту. Хештеги дозволяють користувачам знаходити пости на одну тему.",
+        "type": "Лексичні запозичення",
+        "audio": "hashtag.mp3"
+    },
+    {
+        "word": "highkey",
+        "transcription": "[ˌhaɪ ˈkiː]",
+        "meaning": "Openly and obviously",
+        "translation": "Явно та очевидно",
+        "origin": "Молодіжний сленг 2000-х років",
+        "note": "Прислівник для явного та очевидного. Highkey протилежна 'lowkey'.",
+        "type": "Лексичні запозичення",
+        "audio": "highkey.mp3"
+    },
+    {
+        "word": "HTML",
+        "transcription": "[ˌeɪtʃ tiː ˈem el]",
+        "meaning": "Hypertext markup language",
+        "translation": "Мова розмітки гіпертексту",
+        "origin": "Веб-стандарти 1989 року",
+        "note": "Мова програмування для створення вебсторінок. Кожна вебсторінка написана на HTML.",
+        "type": "Акронім",
+        "audio": "html.mp3"
+    },
+    {
+        "word": "hype",
+        "transcription": "[haɪp]",
+        "meaning": "Excitement",
+        "translation": "Ажіотаж",
+        "origin": "Маркетинговий термін адаптований youth культурою",
+        "note": "Сильне очікування навколо події або релізу. Молодь створює hype в соцмережах через спекуляції та теорії. Став важливою частиною маркетингової стратегії.",
+        "type": "Лексичні запозичення",
+        "audio": "hype.mp3"
+    },
+    {
+        "word": "iced",
+        "transcription": "[aɪst]",
+        "meaning": "Rejected or ignored by someone",
+        "translation": "Відхилений або ігнорований кимось",
+        "origin": "Молодіжний сленг та інтернет-мемна культура",
+        "note": "Прикметник для опису того, коли когось ігнорують чи відхиляють. 'He got iced' означає, що його проігнорували. Використовується в соціальних мережах для опису соціальних ситуацій.",
+        "type": "Семантичний зсув",
+        "audio": "iced.mp3"
+    },
+    {
+        "word": "ick",
+        "transcription": "[ɪk]",
+        "meaning": "Sudden turn-off in attraction",
+        "translation": "Відраза, раптова втрата інтересу",
+        "origin": "Love Island та TikTok dating культура 2020-х",
+        "note": "Раптова втрата attraction через дрібницю. Ick lists вірусні в TikTok. Може бути trivial але потужна. Ick феномен показує як дрібниці впливають на романтичний інтерес.",
+        "type": "Усічення",
+        "audio": "ick.mp3"
+    },
+    {
+        "word": "ICYMI",
+        "transcription": "[aɪ siː waɪ em aɪ]",
+        "meaning": "In Case You Missed It",
+        "translation": "Якщо ти пропустив",
+        "origin": "Twitter ініціалізм 2010-х",
+        "note": "Використовується для репосту старого контенту або важливої новини. Популярний у Twitter та Instagram. Відображає швидкоплинність інформації в соцмережах.",
+        "type": "Ініціалізм",
+        "audio": "icymi.mp3"
+    },
+    {
+        "word": "IDK",
+        "transcription": "[aɪ diː keɪ]",
+        "meaning": "I Don't Know",
+        "translation": "Я не знаю",
+        "origin": "Текстовий ініціалізм SMS-ери 2000-х",
+        "note": "Один з найпоширеніших текстових скорочень для висловлення незнання. Використовується повсюдно в месенджерах та соцмережах. Відображає casual стиль спілкування Gen Z.",
+        "type": "Ініціалізм",
+        "audio": "idk.mp3"
+    },
+    {
+        "word": "IIRC",
+        "transcription": "[ˌaɪ aɪ ɑːr ˈsiː]",
+        "meaning": "If I Recall Correctly",
+        "translation": "Якщо правильно пам'ятаю",
+        "origin": "Інтернет-форуми та Reddit 2000-х років",
+        "note": "Акронім для додання невпевненості до спогадів. Часто використовується перед наданням інформації з пам'яті. Популярний в Reddit та технічних форумах. IIRC допомагає бути чесним щодо можливих помилок в онлайн-дискусіях.",
+        "type": "Ініціалізм",
+        "audio": "iirc.mp3"
+    },
+    {
+        "word": "IMO",
+        "transcription": "[aɪ em oʊ]",
+        "meaning": "In My Opinion",
+        "translation": "На мою думку",
+        "origin": "Текстовий ініціалізм 2000-х",
+        "note": "Вставка перед висловленням особистої думки в онлайн-дискусіях. Широко використовується на Reddit, Twitter та YouTube коментарях. Допомагає ввічливо висловлювати свою позицію.",
+        "type": "Ініціалізм",
+        "audio": "imo.mp3"
+    },
+    {
+        "word": "imposter",
+        "transcription": "[ɪmˈpɒstər]",
+        "meaning": "Fake or deceitful person",
+        "translation": "Самозванець, фейк",
+        "origin": "Among Us адаптоване imposter syndrome 2020",
+        "note": "Роль в Among Us що стала мемом. Imposter syndrome описує відчуття fraud. 'Kinda sus' культура з гри. Imposter концепція резонує з відчуттями inadequacy.",
+        "type": "Лексичні запозичення",
+        "audio": "imposter.mp3"
+    },
+    {
+        "word": "influencer",
+        "transcription": "[ˈɪnfluənsər]",
+        "meaning": "Person with large online following",
+        "translation": "Інфлюенсер, людина з великою кількістю послідовників",
+        "origin": "Соціальні мережи 2010-х років",
+        "note": "Користувач соціальних мереж з великою кількістю послідовників. Їхній вплив виміряється кількістю послідовників та лайків.",
+        "type": "Лексичні запозичення",
+        "audio": "influencer.mp3"
+    },
+    {
+        "word": "IRL",
+        "transcription": "[aɪ ɑːr el]",
+        "meaning": "In Real Life",
+        "translation": "У реальному житті",
+        "origin": "Ініціалізм з ранньої інтернет-культури 1990-х",
+        "note": "Розрізнення між онлайн та офлайн життям. Популярний у Discord, Reddit для підкреслення того що щось відбувається поза інтернетом. Відображає дуальність життя сучасної молоді.",
+        "type": "Ініціалізм",
+        "audio": "irl.mp3"
+    },
+    {
+        "word": "It's giving",
+        "transcription": "[ɪts ˈɡɪvɪŋ]",
+        "meaning": "It gives off a certain vibe or impression",
+        "translation": "Це дає враження, це нагадує",
+        "origin": "LGBTQ+ та афроамериканський сленг 2020-2021",
+        "note": "Фраза для опису вайбу чи враження від чогось. Надзвичайно популярна в TikTok та Instagram. Використовується для модних оцінок та коментарів. Приклад 'It's giving main character energy'. Відображає креативний та метафоричний стиль комунікації Gen Z в соцмережах.",
+        "type": "Семантичний зсув",
+        "audio": "its_giving.mp3"
+    },
+    {
+        "word": "IYKYK",
+        "transcription": "[aɪ waɪ keɪ waɪ keɪ]",
+        "meaning": "If You Know You Know",
+        "translation": "Якщо ти знаєш, то знаєш",
+        "origin": "Інтернет-акронім середини 2010-х",
+        "note": "Використовується для натяків на щось зрозуміле лише обраним. Популярний у Instagram Stories та TikTok для створення ексклюзивності. Відображає культуру insider-жартів серед молоді.",
+        "type": "Акронім",
+        "audio": "iykyk.mp3"
+    },
+    {
+        "word": "JOMO",
+        "transcription": "[ˈdʒəʊməʊ]",
+        "meaning": "Joy Of Missing Out",
+        "translation": "Радість пропустити",
+        "origin": "Реакція на FOMO культуру 2010-х років",
+        "note": "Антитеза FOMO що означає насолоду від відмови від подій. Набирає популярності як реакція на токсичність соцмереж. Використовується для виправдання часу наодинці. JOMO рух представляє зростаюче усвідомлення потреби в цифровому детоксі.",
+        "type": "Акронім",
+        "audio": "jomo.mp3"
+    },
+    {
+        "word": "JPEG",
+        "transcription": "[ˈdʒeɪpeg]",
+        "meaning": "Joint photographic experts group",
+        "translation": "Формат спільної групи експертів з фотографії",
+        "origin": "Формати зображень 1992 року",
+        "note": "Формат стиснення зображень для фотографій. JPEG дозволяє значно зменшити розмір файлу.",
+        "type": "Акронім",
+        "audio": "jpeg.mp3"
+    },
+    {
+        "word": "JSON",
+        "transcription": "[ˈdʒeɪsən]",
+        "meaning": "JavaScript object notation",
+        "translation": "Формат даних JSON",
+        "origin": "Веб-стандарти 2001 року",
+        "note": "Універсальний формат обміну даних для передачі інформації між сервером та клієнтом. JSON є людиночитаним та компактнішим за XML.",
+        "type": "Акронім",
+        "audio": "json.mp3"
+    },
+    {
+        "word": "king",
+        "transcription": "[kɪŋ]",
+        "meaning": "Respected man, leader",
+        "translation": "Поважаний чоловік, лідер",
+        "origin": "Молодіжний та афроамериканський сленг",
+        "note": "Іменник для звернення до визнаного лідера чи поважаної людини. 'Be a king' означає бути успішним. Популярна у мотиваційних мемах.",
+        "type": "Лексичні запозичення",
+        "audio": "king.mp3"
+    },
+    {
+        "word": "L",
+        "transcription": "[el]",
+        "meaning": "Loss or failure",
+        "translation": "Програш, невдача",
+        "origin": "Gaming та спортивний сленг 2010-х",
+        "note": "Одна буква для описання failure. 'Take the L' означає прийняти поразку. W/L ratio в грі життя. L культура спрощує обговорення успіхів та невдач.",
+        "type": "Усічення",
+        "audio": "l.mp3"
+    },
+    {
+        "word": "lag",
+        "transcription": "[læɡ]",
+        "meaning": "Delay in game or internet",
+        "translation": "Затримка в грі або інтернеті",
+        "origin": "Ігровий та технічний сленг 1990-х років",
+        "note": "Іменник для позначення затримки під час гри. 'The game is lagging' означає, що гра затримується. Часто служить виправданням для поганої гри.",
+        "type": "Лексичні запозичення",
+        "audio": "lag.mp3"
+    },
+    {
+        "word": "lit",
+        "transcription": "[lɪt]",
+        "meaning": "Exciting or excellent",
+        "translation": "Захоплюючий, відмінний або веселий",
+        "origin": "Молодіжний сленг 2010-х років",
+        "note": "Прикметник для видатного чи захоплюючого. Lit часто супроводжується емодзі вогню в соціальних мережах.",
+        "type": "Неологізм",
+        "audio": "lit.mp3"
+    },
+    {
+        "word": "login",
+        "transcription": "[ˈlɒɡɪn]",
+        "meaning": "Process of accessing an account",
+        "translation": "Вхід, процес входу в обліковий запис",
+        "origin": "Комп'ютерні системи 1960-х років",
+        "note": "Процес введення облікових даних для отримання доступу. Login є важливим інструментом безпеки для захисту персональних даних.",
+        "type": "Лексичні запозичення",
+        "audio": "login.mp3"
+    },
+    {
+        "word": "LOL",
+        "transcription": "[ˌel oʊ ˈel]",
+        "meaning": "Laugh out loud",
+        "translation": "Гучно сміюся",
+        "origin": "Інтернет-форуми та чати 1980-х років",
+        "note": "Акронім для позначення того, що щось смішне. LOL став одним з найпоширеніших скорочень в цифровій комунікації.",
+        "type": "Акронім",
+        "audio": "lol.mp3"
+    },
+    {
+        "word": "loot",
+        "transcription": "[luːt]",
+        "meaning": "Items or rewards collected in games",
+        "translation": "Лут, здобич",
+        "origin": "RPG та MMO ігри 1990-х років",
+        "note": "Нагороди за перемогу над ворогами в іграх. Loot boxes стали контроверсійними через азартність. Rare loot мотивує геймерів. Loot система є основою прогресії в багатьох іграх.",
+        "type": "Лексичні запозичення",
+        "audio": "loot.mp3"
+    },
+    {
+        "word": "love bombing",
+        "transcription": "[lʌv ˈbɒmɪŋ]",
+        "meaning": "Overwhelming with affection to manipulate",
+        "translation": "Атака любов'ю для маніпуляції",
+        "origin": "Психологія культів адаптована dating 2010-х",
+        "note": "Overwhelm affection на початку для маніпуляції. Love bombing є red flag для абьюзу. TikTok psychology піднімає awareness. Розуміння love bombing допомагає розпізнати токсичні patterns.",
+        "type": "Неологізм",
+        "audio": "love_bombing.mp3"
+    },
+    {
+        "word": "lowkey",
+        "transcription": "[ˌloʊ ˈkiː]",
+        "meaning": "In subtle way",
+        "translation": "Тонко, непомітно або приховано",
+        "origin": "Молодіжний сленг 2000-х років",
+        "note": "Прислівник для тонкого або прихованого. Lowkey протилежна 'highkey'.",
+        "type": "Лексичні запозичення",
+        "audio": "lowkey.mp3"
+    },
+    {
+        "word": "main character",
+        "transcription": "[meɪn ˈkærəktər]",
+        "meaning": "Acting like you're the center of attention",
+        "translation": "Поводитися як головний герой",
+        "origin": "TikTok та інтернет-культура 2020-2021",
+        "note": "Тренд поведінки ніби ти головний герой фільму. Популярний в TikTok відео з драматичними сценами життя. Може бути як позитивним так і критичним. Відображає покоління що виросло на соцмережах де кожен може бути зіркою власної історії.",
+        "type": "Лексичні запозичення",
+        "audio": "main_character.mp3"
+    },
+    {
+        "word": "main character energy",
+        "transcription": "[meɪn ˈkærɪktər ˈenərʒi]",
+        "meaning": "Acting confident like protagonist",
+        "translation": "Впевнена поведінка як головний герой",
+        "origin": "Інтернет-культура та философія TikTok 2020-х років",
+        "note": "Концепція жити як головний герой фільму з впевненістю. Популяризована на TikTok як мотиваційна ідея. Люди постять про те, як вони мають 'main character energy'.",
+        "type": "Неологізм",
+        "audio": "main_character_energy.mp3"
+    },
+    {
+        "word": "malware",
+        "transcription": "[ˈmælwer]",
+        "meaning": "Malicious software",
+        "translation": "Шкідливе програмне забезпечення, віруси",
+        "origin": "Комп'ютерна безпека 1980-х років",
+        "note": "Програмне забезпечення для завдання шкоди комп'ютерам. Malware включає віруси, черв'яків та тройанів.",
+        "type": "Бленд",
+        "audio": "malware.mp3"
+    },
+    {
+        "word": "manifesting",
+        "transcription": "[ˈmænɪfestɪŋ]",
+        "meaning": "Believing you can attract what you desire",
+        "translation": "Маніфестація, притягнення бажаного",
+        "origin": "Law of Attraction та TikTok spirituality 2020-х",
+        "note": "Віра що позитивні думки створюють реальність. Manifesting культура популярна в TikTok. 'Manifest that job' є популярною порадою. Manifesting поєднує spirituality та self-help для Gen Z.",
+        "type": "Лексичні запозичення",
+        "audio": "manifesting.mp3"
+    },
+    {
+        "word": "meme",
+        "transcription": "[miːm]",
+        "meaning": "Humorous image spread online",
+        "translation": "Мем, смішне зображення, що поширюється онлайн",
+        "origin": "Інтернет-культура 1990-х років",
+        "note": "Одиниця культури, що поширюється та еволюціонує в Інтернеті. Меми часто містять гумор та соціальний коментар.",
+        "type": "Неологізм",
+        "audio": "meme.mp3"
+    },
+    {
+        "word": "merch",
+        "transcription": "[mɜːrtʃ]",
+        "meaning": "Merchandise",
+        "translation": "Мерчандайз",
+        "origin": "Усічення від 'merchandise' в YouTuber культурі 2010-х",
+        "note": "Брендовані товари креаторів контенту. Купівля мерчу - спосіб підтримки улюбленого YouTuber. Став важливим джерелом доходу для інфлюенсерів.",
+        "type": "Усічення",
+        "audio": "merch.mp3"
+    },
+    {
+        "word": "meta",
+        "transcription": "[ˈmetə]",
+        "meaning": "Most effective tactics available",
+        "translation": "Найефективніші тактики, що доступні",
+        "origin": "Ігровий та комп'ютерний сленг 1990-х років",
+        "note": "Акронім для найефективнішої стратегії в грі. 'That's meta' означає використання оптимальної тактики. Часто критикується за однобічність.",
+        "type": "Акронім",
+        "audio": "meta.mp3"
+    },
+    {
+        "word": "mod",
+        "transcription": "[mɒd]",
+        "meaning": "Modification created by players",
+        "translation": "Мод, модифікація",
+        "origin": "PC геймінг 1990-х років",
+        "note": "Усічення 'modification' для користувацького контенту. Modding комюніті продовжують життя ігор. Деякі моди стали окремими іграми. Mod культура демократизувала геймдев та створила креаторську економіку.",
+        "type": "Усічення",
+        "audio": "mod.mp3"
+    },
+    {
+        "word": "mood",
+        "transcription": "[muːd]",
+        "meaning": "Agreeing with someone's mood or opinion",
+        "translation": "Поділяти чийсь настрій або думку",
+        "origin": "Молодіжний сленг та інтернет-культура 2010-х років",
+        "note": "Однослівна відповідь для вираження згоди з чиїмсь настроєм або думкою. 'Mood' часто відправляється як реакція в чатах. Популярна в Instagram-stories та Twitter.",
+        "type": "Семантичний зсув",
+        "audio": "mood.mp3"
+    },
+    {
+        "word": "nerd",
+        "transcription": "[nɜːrd]",
+        "meaning": "Studious or tech-obsessed person",
+        "translation": "Ботан, розумник",
+        "origin": "Dr. Seuss 1950 переосмислено 1970-2000-ми",
+        "note": "Подібний до geek але часто більш академічний. Nerd культура охоплює науку, математику, технології. Big Bang Theory популяризував nerd культуру. Nerd став комплементом в епоху коли інтелект цінується.",
+        "type": "Лексичні запозичення",
+        "audio": "nerd.mp3"
+    },
+    {
+        "word": "nerf",
+        "transcription": "[nerf]",
+        "meaning": "To weaken a game element",
+        "translation": "Послабити елемент гри",
+        "origin": "Ігровий сленг та гейм-дизайн 1990-х років",
+        "note": "Дієслово для послаблення персонажа чи зброї розробниками. 'They nerfed the weapon' означає послабленість. Протилежна 'buff'.",
+        "type": "Лексичні запозичення",
+        "audio": "nerf.mp3"
+    },
+    {
+        "word": "newbie",
+        "transcription": "[ˈnjuːbi]",
+        "meaning": "Inexperienced user",
+        "translation": "Новачок, неопитний користувач",
+        "origin": "Комп'ютерні спільноти 1980-х років",
+        "note": "Людина, яка нещодавно почала вивчати комп'ютери. Онлайн-спільноти мають розділи з корисними посібниками для newbies.",
+        "type": "Неологізм",
+        "audio": "newbie.mp3"
+    },
+    {
+        "word": "NGL",
+        "transcription": "[en dʒiː el]",
+        "meaning": "Not Gonna Lie",
+        "translation": "Не буду брехати",
+        "origin": "Текстовий акронім 2010-х",
+        "note": "Вираз для підкреслення щирості перед висловлюванням думки. Дуже популярний у Twitter, Discord та месенджерах серед підлітків. Став невід'ємною частиною онлайн-комунікації Gen Z.",
+        "type": "Акронім",
+        "audio": "ngl.mp3"
+    },
+    {
+        "word": "no cap",
+        "transcription": "[noʊ kæp]",
+        "meaning": "Not lying, telling the truth",
+        "translation": "Не брешу, кажу правду",
+        "origin": "Афроамериканський сленг, популяризований в інтернеті 2010-х років",
+        "note": "Фраза для підтвердження правди. 'Cap' означає брехню, тому 'no cap' означає правду. Дуже популярна на TikTok та в молодіжних чатах.",
+        "type": "Лексичні запозичення",
+        "audio": "no_cap.mp3"
+    },
+    {
+        "word": "noob",
+        "transcription": "[nuːb]",
+        "meaning": "Inexperienced player or beginner",
+        "translation": "Неопитний гравець або новачок",
+        "origin": "Ігровий сленг 1990-х років",
+        "note": "Іменник для опису новачка в іграх. Може бути як нейтральним, так і образливим. Часто використовується в мультиплеєрних іграх.",
+        "type": "Неологізм",
+        "audio": "noob.mp3"
+    },
+    {
+        "word": "noob tube",
+        "transcription": "[ˈnuːb tjuːb]",
+        "meaning": "Grenade launcher in games",
+        "translation": "Гранатомет у грах",
+        "origin": "Ігровий сленг 2000-х років",
+        "note": "Іменник для легко використовуваної зброї в іграх. 'Noob tube' часто критикується як несправедлива. Популярна назва в Call of Duty та подібних іграх.",
+        "type": "Лексичні запозичення",
+        "audio": "noob_tube.mp3"
+    },
+    {
+        "word": "notification",
+        "transcription": "[ˌnəʊtɪfɪˈkeɪʃn]",
+        "meaning": "Alert from app or service",
+        "translation": "Нотифікація, сповіщення",
+        "origin": "Мобільні пристрої та додатки 2000-х років",
+        "note": "Критичний елемент мобільного досвіду. Push notifications тримають користувачів engaged. Notification fatigue є реальною проблемою. Керування notifications важливе для digital wellbeing та продуктивності.",
+        "type": "Лексичні запозичення",
+        "audio": "notification.mp3"
+    },
+    {
+        "word": "NPC",
+        "transcription": "[ˌen piː ˈsiː]",
+        "meaning": "Non-Player Character, someone who lacks independent thinking",
+        "translation": "Людина без власної думки",
+        "origin": "Відеоігри та інтернет-меми 2018-2019",
+        "note": "Ігровий термін що означає комп'ютерного персонажа. В мемах описує людей що діють шаблонно. Популярне в політичних мемах та TikTok. Використовується критично для описання конформізму. Відображає вплив геймінг-термінології на розуміння соціальної поведінки.",
+        "type": "Ініціалізм",
+        "audio": "npc.mp3"
+    },
+    {
+        "word": "NSFW",
+        "transcription": "[ˌen es ef ˈdʌbljuː]",
+        "meaning": "Not Safe For Work",
+        "translation": "Не безпечно для роботи",
+        "origin": "Інтернет-форуми та культура попереджень 2000-ті роки",
+        "note": "Попередження про контент непридатний для перегляду на роботі. Критично важливе для Reddit, Imgur та інших платформ. Зазвичай означає сексуальний чи графічний контент. NSFW система маркування стала стандартом інтернет-етикету для захисту користувачів.",
+        "type": "Ініціалізм",
+        "audio": "nsfw.mp3"
+    },
+    {
+        "word": "OAuth",
+        "transcription": "[ˈoʊ ɑːθ]",
+        "meaning": "Open authorization protocol",
+        "translation": "Відкритий протокол авторизації",
+        "origin": "Веб-стандарти 2006 року",
+        "note": "Протокол для безпечної авторизації без передачі пароля. OAuth часто використовується для входу через соціальні мережі.",
+        "type": "Акронім",
+        "audio": "oauth.mp3"
+    },
+    {
+        "word": "OMG",
+        "transcription": "[ˌəʊ em ˈdʒiː]",
+        "meaning": "Oh My God",
+        "translation": "О Боже мій",
+        "origin": "Текстові повідомлення та інтернет-чати 1990-х років",
+        "note": "Один з найстаріших інтернет-акронімів для вираження здивування. Універсальний в усіх вікових групах та платформах. Варіанти включають OMFG для посиленого здивування. OMG залишається вічнозеленим способом висловити емоції в текстовій комунікації.",
+        "type": "Ініціалізм",
+        "audio": "omg.mp3"
+    },
+    {
+        "word": "oof",
+        "transcription": "[uːf]",
+        "meaning": "Expression of sympathy",
+        "translation": "Вираз співчуття або дискомфорту",
+        "origin": "Інтернет-культура та відеоігри 2010-х років",
+        "note": "Міжметие для виразу болю або співчуття. Oof популяризована відеогра Roblox.",
+        "type": "Фонетичні/орфографічні ігри",
+        "audio": "oof.mp3"
+    },
+    {
+        "word": "OOTD",
+        "transcription": "[oʊ oʊ tiː diː]",
+        "meaning": "Outfit Of The Day",
+        "translation": "Одяг дня",
+        "origin": "Fashion-акронім з Instagram 2010-х",
+        "note": "Хештег для демонстрації щоденного образу. Надзвичайно популярний серед fashion-блогерів в Instagram та TikTok. Став частиною культури самовираження через моду в соцмережах.",
+        "type": "Акронім",
+        "audio": "ootd.mp3"
+    },
+    {
+        "word": "orbiting",
+        "transcription": "[ˈɔːrbɪtɪŋ]",
+        "meaning": "Watching someone's social media without direct contact",
+        "translation": "Стеження без спілкування",
+        "origin": "Dating культура соцмереж 2010-х",
+        "note": "Переглядати stories та posts колишнього без взаємодії. Orbiting створює unclear ситуації. Популярна проблема в post-breakup динаміці. Orbiting поведінка є формою цифрового присутності.",
+        "type": "Неологізм",
+        "audio": "orbiting.mp3"
+    },
+    {
+        "word": "owo",
+        "transcription": "[ˈoʊ.oʊ]",
+        "meaning": "Surprised face expression",
+        "translation": "Здивований вираз обличчя",
+        "origin": "Інтернет-культура та аніме-спільнота 2000-х років",
+        "note": "Емотикон для вираження здивування або захоплення. Часто поєднується з 'uwu' в мемах. Популярна серед молоді на Reddit та Twitter.",
+        "type": "Фонетичні/орфографічні ігри",
+        "audio": "owo.mp3"
+    },
+    {
+        "word": "password",
+        "transcription": "[ˈpæsswɜːrd]",
+        "meaning": "Secret code for account access",
+        "translation": "Пароль, таємний код для доступу",
+        "origin": "Комп'ютерна безпека 1960-х років",
+        "note": "Таємна комбінація символів для доступу до облікового запису. Надійний пароль повинен містити букви, цифри та спеціальні символи.",
+        "type": "Лексичні запозичення",
+        "audio": "password.mp3"
+    },
+    {
+        "word": "patch",
+        "transcription": "[pætʃ]",
+        "meaning": "Software fix or update",
+        "translation": "Патч, виправлення",
+        "origin": "Програмування 1960-х років",
+        "note": "Виправлення що усуває bugs чи баланс проблеми. Day one patches стали нормою в іграх. Patch notes читають уважно. Patch культура показує як ігри еволюціонують після релізу.",
+        "type": "Лексичні запозичення",
+        "audio": "patch.mp3"
+    },
+    {
+        "word": "peak",
+        "transcription": "[piːk]",
+        "meaning": "The worst or the best",
+        "translation": "Найгірше або найкраще",
+        "origin": "UK сленг адаптований TikTok 2020-х",
+        "note": "Залежно від контексту може означати найгірше (UK) або найкраще (US). Популярний у TikTok для опису cringe ситуацій або найкращих моментів. Відображає evolution сленгу через географічні кордони.",
+        "type": "Семантичний зсув",
+        "audio": "peak.mp3"
+    },
+    {
+        "word": "periodt",
+        "transcription": "[ˈpɪriəd.tiː]",
+        "meaning": "End of discussion, full stop",
+        "translation": "Точка, кінець дискусії, остаточно",
+        "origin": "LGBTQ+ та афроамериканський сленг, популяризований в інтернеті",
+        "note": "Вираз для завершення розмови або для наголошення на чомусь. Часто пишеться як 'period' або 'periodt'. Стало трендовим на TikTok.",
+        "type": "Лексичні запозичення",
+        "audio": "periodt.mp3"
+    },
+    {
+        "word": "phishing",
+        "transcription": "[ˈfɪʃɪŋ]",
+        "meaning": "Fraudulent attempt for information",
+        "translation": "Фішинг, шахрайська спроба отримати конфіденційну інформацію",
+        "origin": "Кіберзлочинність 1990-х років",
+        "note": "Шахрайська техніка видавання себе за легітимні організації. Фішинг часто здійснюється через поддільні листи електронної пошти.",
+        "type": "Неологізм",
+        "audio": "phishing.mp3"
+    },
+    {
+        "word": "pic",
+        "transcription": "[pɪk]",
+        "meaning": "Picture, photograph",
+        "translation": "Фото, зображення",
+        "origin": "Інтернет та цифрові камери 2000-х років",
+        "note": "Універсальне усічення від 'picture' в цифрову епоху. Базовий термін для соцмереж та обміну зображеннями. Частина фраз 'pic or it didn't happen'. Pic культура трансформувала як ми документуємо та діляться життям через візуальний контент.",
+        "type": "Усічення",
+        "audio": "pic.mp3"
+    },
+    {
+        "word": "pick me",
+        "transcription": "[pɪk miː]",
+        "meaning": "Person seeking validation by putting others down",
+        "translation": "Людина що шукає схвалення",
+        "origin": "TikTok та соціальна критика 2020-2021",
+        "note": "Критика тих хто принижує інших для attention. 'Pick me girl/boy' є негативним лейблом. Пов'язане з internalized sexism. Pick me поведінка обговорюється в TikTok як токсичний патерн.",
+        "type": "Неологізм",
+        "audio": "pick_me.mp3"
+    },
+    {
+        "word": "ping",
+        "transcription": "[pɪŋ]",
+        "meaning": "Latency or signal strength in game",
+        "translation": "Затримка чи сила сигналу в грі",
+        "origin": "Комп'ютерний та ігровий сленг 1990-х років",
+        "note": "Іменник для виміру затримки мережі. Низький пінг означає кращу гру. Високий пінг призводить до затримок і проблем у іграх.",
+        "type": "Лексичні запозичення",
+        "audio": "ping.mp3"
+    },
+    {
+        "word": "pixel",
+        "transcription": "[ˈpɪksəl]",
+        "meaning": "Smallest unit of digital image",
+        "translation": "Піксель, найменша одиниця цифрового зображення",
+        "origin": "Комп'ютерна графіка 1960-х років",
+        "note": "Найменший елемент цифрового зображення. Піксельною основою будуються всі цифрові фотографії та дисплеї.",
+        "type": "Неологізм",
+        "audio": "pixel.mp3"
+    },
+    {
+        "word": "PNG",
+        "transcription": "[ˌpiː en ˈdʒiː]",
+        "meaning": "Portable network graphics",
+        "translation": "Портативний формат мережевої графіки",
+        "origin": "Формати зображень 1995 року",
+        "note": "Формат зображення, що підтримує прозорість та високу якість. PNG став стандартом для веб-графіки.",
+        "type": "Акронім",
+        "audio": "png.mp3"
+    },
+    {
+        "word": "podcast",
+        "transcription": "[ˈpɒdkæst]",
+        "meaning": "Audio program series online",
+        "translation": "Подкаст, аудіопрограма доступна онлайн",
+        "origin": "Трансляція 2000-х років",
+        "note": "Серія аудіопрограм, що розповсюджується через Інтернет. Подкасти часто присвячені конкретній темі або жанру.",
+        "type": "Бленд",
+        "audio": "podcast.mp3"
+    },
+    {
+        "word": "POV",
+        "transcription": "[piː oʊ viː]",
+        "meaning": "Point Of View",
+        "translation": "Точка зору",
+        "origin": "Кінематографічний термін адаптований TikTok 2019-2020",
+        "note": "Формат TikTok-відео де автор грає сценку з певної перспективи. Один з найпопулярніших трендів на TikTok з мільярдами переглядів. Дозволяє глядачеві стати частиною історії.",
+        "type": "Акронім",
+        "audio": "pov.mp3"
+    },
+    {
+        "word": "pro",
+        "transcription": "[ˈproʊ]",
+        "meaning": "Professional, skilled player",
+        "translation": "Професіонал, досвідчений гравець",
+        "origin": "Ігровий сленг та спортивна культура",
+        "note": "Іменник для опису професіонала чи експерта. В іграх 'pro' означає досвідченого гравця. Протилежна 'noob'.",
+        "type": "Усічення",
+        "audio": "pro.mp3"
+    },
+    {
+        "word": "pwn",
+        "transcription": "[poʊn]",
+        "meaning": "To dominate or defeat someone",
+        "translation": "Домінувати чи перемогти когось",
+        "origin": "Ігровий сленг 2000-х років",
+        "note": "Дієслово для вираження переваги над суперником. 'I pwned you' означає перемогу. Походить від опечатки слова 'own' на клавіатурі.",
+        "type": "Неологізм",
+        "audio": "pwn.mp3"
+    },
+    {
+        "word": "queen",
+        "transcription": "[kwiːn]",
+        "meaning": "Respected woman, powerful woman",
+        "translation": "Поважна жінка, потужна жінка",
+        "origin": "LGBTQ+ та інтернет-культура",
+        "note": "Іменник для звернення до впевненої чи успішної жінки. 'Slay, queen' є популярною фразою підтримки. Часто використовується у феміністичних мемах.",
+        "type": "Лексичні запозичення",
+        "audio": "queen.mp3"
+    },
+    {
+        "word": "rage quit",
+        "transcription": "[reɪdʒ kwɪt]",
+        "meaning": "Quit game in anger",
+        "translation": "Вийти з гри зі злості",
+        "origin": "Гейм неологізм 2000-х",
+        "note": "Коли гравець несподівано покидає гру через фрустрацію або злість після поразки. Популярний термін у Twitch та gaming YouTube. Часто стає meme content коли streamer публічно rage quit'ить.",
+        "type": "Неологізм",
+        "audio": "rage-quit.mp3"
+    },
+    {
+        "word": "RAM",
+        "transcription": "[ˌɑːr eɪ ˈem]",
+        "meaning": "Random access memory",
+        "translation": "Оперативна пам'ять, памʼять комп'ютера",
+        "origin": "Комп'ютерна архітектура 1950-х років",
+        "note": "Тип комп'ютерної пам'яті для тимчасового зберігання даних. RAM є швидкою, але енергозалежною.",
+        "type": "Акронім",
+        "audio": "ram.mp3"
+    },
+    {
+        "word": "ratio",
+        "transcription": "[ˈreɪʃioʊ]",
+        "meaning": "Getting more replies than likes",
+        "translation": "Отримати більше відповідей ніж лайків",
+        "origin": "Twitter культура 2010-х",
+        "note": "Коли tweet отримує більше відповідей ніж лайків вказуючи на непопулярну думку. Люди навмисно пишуть 'ratio' щоб набрати більше engagement. Став способом публічно disagree в Twitter культурі.",
+        "type": "Семантичний зсув",
+        "audio": "ratio.mp3"
+    },
+    {
+        "word": "reboot",
+        "transcription": "[ˌriːˈbuːt]",
+        "meaning": "Restart system or franchise",
+        "translation": "Ребут, перезапуск",
+        "origin": "Комп'ютерні системи адаптоване медіа 1980-2000-х",
+        "note": "Технічний термін що став культурним феноменом. Reboots відроджують старі франшизи. 'Turn it off and on' вирішує проблеми. Reboot культура домінує в Голлівуді та відеоіграх.",
+        "type": "Лексичні запозичення",
+        "audio": "reboot.mp3"
+    },
+    {
+        "word": "receipts",
+        "transcription": "[rɪˈsiːts]",
+        "meaning": "Proof or evidence",
+        "translation": "Докази, підтвердження",
+        "origin": "Інтернет-культура та Twitter драми 2010-х років",
+        "note": "Термін для скріншотів чи доказів в онлайн-суперечках. Критично важливий в Twitter драмах та викриттях. Фраза 'show receipts' означає вимогу доказів. Відображає культуру документування та підтвердження заяв в епоху соцмереж де довіра потребує верифікації.",
+        "type": "Лексичні запозичення",
+        "audio": "receipts.mp3"
+    },
+    {
+        "word": "red flag",
+        "transcription": "[red flæɡ]",
+        "meaning": "Warning sign of problematic behavior",
+        "translation": "Червоний прапорець, попередження",
+        "origin": "Соцмережі та dating культура 2010-х",
+        "note": "Попереджувальні знаки в стосунках чи поведінці. Red flag discussions популярні в TikTok. Допомагає розпізнати токсичність рано. Red flag культура підвищила awareness про healthy relationships.",
+        "type": "Семантичний зсув",
+        "audio": "red_flag.mp3"
+    },
+    {
+        "word": "rent-free",
+        "transcription": "[rent friː]",
+        "meaning": "Constantly thinking about",
+        "translation": "Постійно думати про",
+        "origin": "Twitter сленг 2010-х",
+        "note": "Коли щось або хтось постійно займає твої думки без зусиль. Використовується як 'living rent-free in my head'. Популярний у Twitter та TikTok для опису obsession з чимось або кимось.",
+        "type": "Семантичний зсув",
+        "audio": "rent-free.mp3"
+    },
+    {
+        "word": "respawn",
+        "transcription": "[ˌriː ˈspɔːn]",
+        "meaning": "To appear again after death in game",
+        "translation": "З'явитися знову після смерті в грі",
+        "origin": "Ігровий сленг 1980-х років",
+        "note": "Дієслово для повернення персонажа в грі після його смерти. 'I respawned' означає, що персонаж повернувся. Основне поняття в більшості відеоігор.",
+        "type": "Лексичні запозичення",
+        "audio": "respawn.mp3"
+    },
+    {
+        "word": "respawn camping",
+        "transcription": "[ˌriː ˈspɔːn ˈkæmpɪŋ]",
+        "meaning": "Waiting for player to respawn to kill",
+        "translation": "Чекання гравця, щоб убити його знову",
+        "origin": "Ігровий сленг та стратегія 2000-х років",
+        "note": "Тактика чекання біля місця відродження щоб убити гравця. Вважається несправедливою у більшості ігрових спільнот. Часто призводить до заборани або мутування гравця.",
+        "type": "Лексичні запозичення",
+        "audio": "respawn_camping.mp3"
+    },
+    {
+        "word": "rizz",
+        "transcription": "[rɪz]",
+        "meaning": "Charisma, ability to attract romantically",
+        "translation": "Харизма, вміння привабити",
+        "origin": "Kai Cenat Twitch стрімер та Gen Z сленг 2021-2022",
+        "note": "Усічення від 'charisma' що стало вірусним через Twitch. Означає вміння флірувати та приваблювати. Надзвичайно популярне в TikTok серед підлітків. Породило фрази 'unspoken rizz', 'W rizz'. Навіть стало Oxford Word of the Year 2023 завдяки популярності серед Gen Z.",
+        "type": "Усічення",
+        "audio": "rizz.mp3"
+    },
+    {
+        "word": "ROFL",
+        "transcription": "[rɒfl]",
+        "meaning": "Rolling On Floor Laughing",
+        "translation": "Качаюсь по підлозі від сміху",
+        "origin": "Чатовий ініціалізм 1990-х",
+        "note": "Посилена версія LOL для висловлення надзвичайно сильного сміху. Популярний у мемній культурі та онлайн-чатах. Часто супроводжується емодзі що плаче від сміху.",
+        "type": "Ініціалізм",
+        "audio": "rofl.mp3"
+    },
+    {
+        "word": "router",
+        "transcription": "[ˈruːtər]",
+        "meaning": "Device that directs network traffic",
+        "translation": "Маршрутизатор, пристрій, що керує мережевим трафіком",
+        "origin": "Комп'ютерні мережи 1980-х років",
+        "note": "Мережевий пристрій, що розподіляє дані від Інтернету. Роутери є критичним компонентом Інтернету.",
+        "type": "Лексичні запозичення",
+        "audio": "router.mp3"
+    },
+    {
+        "word": "RT",
+        "transcription": "[ˌɑːr ˈtiː]",
+        "meaning": "Retweet",
+        "translation": "Ретвіт, поділитися твітом",
+        "origin": "Twitter функціонал 2009-теперішній час",
+        "note": "Базова Twitter функція для поширення чужих твітів. RT культура визначає вірусність на платформі. Може означати згоду чи просто поширення інформації. Retweet механіка трансформувала як інформація розповсюджується та стає вірусною в інтернеті.",
+        "type": "Ініціалізм",
+        "audio": "rt.mp3"
+    },
+    {
+        "word": "salty",
+        "transcription": "[ˈsɔːlti]",
+        "meaning": "Upset or angry about something",
+        "translation": "Розстроєний, сердитий, образений",
+        "origin": "Ігровий сленг та молодіжна культура 2000-х років",
+        "note": "Прикметник для вираження розчарування або гіркоти. В ігровому середовищі 'salty' описує гравця, який програвав і тепер серидитий. Термін часто супроводжується мемами та жартами.",
+        "type": "Семантичний зсув",
+        "audio": "salty.mp3"
+    },
+    {
+        "word": "savage",
+        "transcription": "[ˈsævɪdʒ]",
+        "meaning": "Brutally honest",
+        "translation": "Безжалісно чесний",
+        "origin": "Хіп-хоп культура 2010-х",
+        "note": "Описує людину яка говорить brutal правду без фільтрів. Позитивний термін у молодіжному сленгу. Популярний у Twitter для опису witty clapbacks.",
+        "type": "Лексичні запозичення",
+        "audio": "savage.mp3"
+    },
+    {
+        "word": "screenshot",
+        "transcription": "[ˈskriːnʃɒt]",
+        "meaning": "Screen capture",
+        "translation": "Знімок екрану",
+        "origin": "Бленд 'screen' + 'shot' 2000-х",
+        "note": "Зображення того що на екрані. Використовується для збереження чатів, мемів, важливої інформації. Screenshot culture означає що все онлайн може бути збережено назавжди.",
+        "type": "Бленд",
+        "audio": "screenshot.mp3"
+    },
+    {
+        "word": "script",
+        "transcription": "[skrɪpt]",
+        "meaning": "Using automatic program or cheat",
+        "translation": "Використання автоматичної програми або читу",
+        "origin": "Ігровий та програмний сленг 2000-х років",
+        "note": "Дієслово для використання читів чи автоматичних програм у грах. 'He's scripting' означає читування. Це вважається шахрайством в іграх.",
+        "type": "Лексичні запозичення",
+        "audio": "script.mp3"
+    },
+    {
+        "word": "scroll",
+        "transcription": "[skrəʊl]",
+        "meaning": "Move through content vertically",
+        "translation": "Скрол, прокручування",
+        "origin": "Комп'ютерні інтерфейси 1980-х років",
+        "note": "Базова навігація онлайн-контенту. Infinite scroll тримає користувачів engaged. Doom scrolling є проблемою ментального здоров'я. Scroll поведінка визначає як ми споживаємо інформацію онлайн.",
+        "type": "Лексичні запозичення",
+        "audio": "scroll.mp3"
+    },
+    {
+        "word": "seggs",
+        "transcription": "[seɡz]",
+        "meaning": "Euphemism for sex to avoid censorship",
+        "translation": "Евфемізм для сексу",
+        "origin": "TikTok censorship обхід 2020-х",
+        "note": "Фонетичне spelling щоб обійти алгоритми. Seggs та подібні терміни popular на TikTok. Показує креативність users обходити цензуру. Seggs культура відображає напругу між контентом та модерацією.",
+        "type": "Фонетичні/орфографічні ігри",
+        "audio": "seggs.mp3"
+    },
+    {
+        "word": "selfie",
+        "transcription": "[ˈselfi]",
+        "meaning": "Self-portrait photograph",
+        "translation": "Селфі, фотографія самого себе",
+        "origin": "Соціальні мережи та смартфони 2010-х років",
+        "note": "Фотографія, зроблена самим собою за допомогою передньої камери. Селфі стало популярною практикою в соціальних мережах.",
+        "type": "Неологізм",
+        "audio": "selfie.mp3"
+    },
+    {
+        "word": "selfie stick",
+        "transcription": "[ˈselfi stɪk]",
+        "meaning": "Extended pole for self-portraits",
+        "translation": "Палиця для селфі",
+        "origin": "Гаджети 2010-х років",
+        "note": "Гаджет для розширення відстані до камери при зніманні селфі. На багатьох місцях палиці заборонені через безпеку.",
+        "type": "Неологізм",
+        "audio": "selfie_stick.mp3"
+    },
+    {
+        "word": "server",
+        "transcription": "[ˈsɜːrvər]",
+        "meaning": "Computer that provides resources",
+        "translation": "Сервер, комп'ютер, що забезпечує ресурси",
+        "origin": "Комп'ютерні мережі 1980-х років",
+        "note": "Комп'ютер, що забезпечує ресурси та послуги іншим комп'ютерам. Сервери є основою Інтернету та корпоративних мереж.",
+        "type": "Лексичні запозичення",
+        "audio": "server.mp3"
+    },
+    {
+        "word": "shade",
+        "transcription": "[ʃeɪd]",
+        "meaning": "Subtle disapproval",
+        "translation": "Тонкий прояв неповаги або критики",
+        "origin": "LGBTQ+ сленг",
+        "note": "Іменник для тонкої непрямолінійної критики. 'Throw shade' означає критикувати непрямо.",
+        "type": "Семантичний зсув",
+        "audio": "shade.mp3"
+    },
+    {
+        "word": "ship",
+        "transcription": "[ʃɪp]",
+        "meaning": "Support romantic pair",
+        "translation": "Підтримувати пару",
+        "origin": "Скорочення 'relationship' у фанфік культурі 2000-х",
+        "note": "Підтримка романтичної пари в серіалі чи між реальними людьми. Величезна частина фандомної культури на Tumblr, Twitter, TikTok. Відображає емоційну інвестицію молоді.",
+        "type": "Лексичні запозичення",
+        "audio": "ship.mp3"
+    },
+    {
+        "word": "shook",
+        "transcription": "[ʃʊk]",
+        "meaning": "Extremely shocked",
+        "translation": "Надзвичайно шокований",
+        "origin": "AAVE адаптований mainstream 2010-х",
+        "note": "Описує стан сильного здивування або шоку. Популярний у Twitter reactions та TikTok. Часто використовується hyperbolic для dramatic effect навіть для minor surprises.",
+        "type": "Семантичний зсув",
+        "audio": "shook.mp3"
+    },
+    {
+        "word": "side character",
+        "transcription": "[saɪd ˈkærəktər]",
+        "meaning": "Secondary person in someone's story",
+        "translation": "Другорядний персонаж",
+        "origin": "TikTok та фільмова термінологія 2020-х",
+        "note": "Усвідомлення що ти не головний герой чиєїсь історії. Side character acceptance є healthier підходом. Протилежність main character energy. Концепція допомагає perspective про власну роль.",
+        "type": "Лексичні запозичення",
+        "audio": "side_character.mp3"
+    },
+    {
+        "word": "simp",
+        "transcription": "[sɪmp]",
+        "meaning": "Someone who does too much for another person",
+        "translation": "Людина, що робить надто багато для когось",
+        "origin": "Інтернет-мемна культура 2010-х років",
+        "note": "Сучасний молодіжний термін для опису того, хто надмірно відданий комусь. Часто використовується жартома на YouTube та Twitch. Стало популярним крізь мемну культуру та гейм-комунітет.",
+        "type": "Неологізм",
+        "audio": "simp.mp3"
+    },
+    {
+        "word": "situationship",
+        "transcription": "[ˌsɪtʃuˈeɪʃənʃɪp]",
+        "meaning": "Undefined romantic relationship",
+        "translation": "Невизначені стосунки",
+        "origin": "Dating культура та соцмережі 2010-х",
+        "note": "Романтичні стосунки без чіткого статусу. Situationships викликають фрустрацію. Популярна тема в TikTok dating advice. Термін відображає сучасну складність dating культури.",
+        "type": "Бленд",
+        "audio": "situationship.mp3"
+    },
+    {
+        "word": "slaps",
+        "transcription": "[slæps]",
+        "meaning": "Really good music",
+        "translation": "Дуже гарна музика",
+        "origin": "Музичний сленг Bay Area 2000-х",
+        "note": "Описує пісню що неймовірно хороша та енергійна. Використовується у TikTok та Twitter для схвалення music. Часто у фразі 'this song slaps' або 'this slaps'.",
+        "type": "Семантичний зсув",
+        "audio": "slaps.mp3"
+    },
+    {
+        "word": "slay",
+        "transcription": "[sleɪ]",
+        "meaning": "Do something excellently",
+        "translation": "Зробити щось виключно добре",
+        "origin": "Молодіжний сленг LGBTQ+ спільнота 1990-х років",
+        "note": "Дієслово для виконання чогось виключно добре. Slay став символом впевненості в цифровій культурі.",
+        "type": "Лексичні запозичення",
+        "audio": "slay.mp3"
+    },
+    {
+        "word": "slay queen",
+        "transcription": "[sleɪ kwiːn]",
+        "meaning": "An empowered confident woman",
+        "translation": "Потужна впевнена жінка",
+        "origin": "LGBTQ+ та інтернет-культура 2010-х років",
+        "note": "Фраза для опису впевненої та успішної жінки. 'Slay queen' часто використовується для похвали. Стало символом女性 empowerment в інтернеті.",
+        "type": "Лексичні запозичення",
+        "audio": "slay_queen.mp3"
+    },
+    {
+        "word": "SMH",
+        "transcription": "[ˌes em ˈeɪtʃ]",
+        "meaning": "Shaking my head",
+        "translation": "Хитаю головою від неповаги",
+        "origin": "Текстові повідомлення та чати 2000-х років",
+        "note": "Акронім, що виражає розчарування або неповагу. SMH часто використовується в текстах та соціальних мережах.",
+        "type": "Акронім",
+        "audio": "smh.mp3"
+    },
+    {
+        "word": "snack",
+        "transcription": "[snæk]",
+        "meaning": "Attractive person",
+        "translation": "Привабливо виглядаюча людина",
+        "origin": "Молодіжний сленг 1980-х років, популяризований в інтернеті",
+        "note": "Іменник для опису когось, хто виглядає привабливо. 'They're a snack' означає, що вони привабливі. Часто використовується в Instagram-коментарях.",
+        "type": "Семантичний зсув",
+        "audio": "snack.mp3"
+    },
+    {
+        "word": "snatched",
+        "transcription": "[snætʃt]",
+        "meaning": "Looking perfect",
+        "translation": "Ідеально виглядає",
+        "origin": "Drag queen сленг 2010-х",
+        "note": "Комплімент про бездоганний вигляд особливо makeup або outfit. Популяризований RuPaul's Drag Race. Використовується у Instagram коментарях для вираження захоплення.",
+        "type": "Лексичні запозичення",
+        "audio": "snatched.mp3"
+    },
+    {
+        "word": "soft launch",
+        "transcription": "[sɒft lɔːntʃ]",
+        "meaning": "Subtly revealing relationship on social media",
+        "translation": "М'яке оголошення стосунків",
+        "origin": "Instagram та dating культура 2020-х",
+        "note": "Ненав'язливе натякання на стосунки в постах. Soft launch photos показують частини партнера. Протилежність hard launch. Soft launch стратегія дозволяє тестувати публічну реакцію.",
+        "type": "Лексичні запозичення",
+        "audio": "soft_launch.mp3"
+    },
+    {
+        "word": "spam",
+        "transcription": "[spæm]",
+        "meaning": "Unsolicited bulk messages",
+        "translation": "Небажана масова листування, рекламні повідомлення",
+        "origin": "Електронна пошта 1990-х років",
+        "note": "Небажані масові повідомлення, як правило рекламні. Більшість email-провайдерів мають вбудовані фільтри для блокування spam.",
+        "type": "Лексичні запозичення",
+        "audio": "spam.mp3"
+    },
+    {
+        "word": "spawn",
+        "transcription": "[spɔːn]",
+        "meaning": "To appear for first time in game",
+        "translation": "З'явитися вперше в грі",
+        "origin": "Ігровий сленг 1980-х років",
+        "note": "Дієслово для появи персонажа на початку гри. 'I spawned at base' означає появу на базі. Протилежна 'respawn' за контекстом.",
+        "type": "Лексичні запозичення",
+        "audio": "spawn.mp3"
+    },
+    {
+        "word": "speedrun",
+        "transcription": "[ˈspiːdrʌn]",
+        "meaning": "Complete game as fast as possible",
+        "translation": "Пройти гру максимально швидко",
+        "origin": "Ігрова культура та YouTube 2000-х років",
+        "note": "Термін для проходження гри за мінімально можливий час. Speedrunners часто стають YouTube-знаменитостями. Існують чемпіонати з speedrunning.",
+        "type": "Лексичні запозичення",
+        "audio": "speedrun.mp3"
+    },
+    {
+        "word": "spill",
+        "transcription": "[spɪl]",
+        "meaning": "To tell gossip or secrets",
+        "translation": "Розповідати чутки або секрети",
+        "origin": "Молодіжний сленг та інтернет-культура 2010-х років",
+        "note": "Дієслово для розповіді цікавої або секретної інформації. 'Spill the tea' означає розповісти секрет. Популярна на TikTok та в молодіжних чатах для обговорення драм.",
+        "type": "Семантичний зсув",
+        "audio": "spill.mp3"
+    },
+    {
+        "word": "squad",
+        "transcription": "[skwɑːd]",
+        "meaning": "Group of close friends",
+        "translation": "Група близьких друзів",
+        "origin": "Молодіжний сленг 1980-х років, популяризований в інтернеті",
+        "note": "Група друзів, яких людина часто бачить. 'Squad' став популярним через соціальні мережи. Часто використовується в Instagram-постах про групову дружбу.",
+        "type": "Лексичні запозичення",
+        "audio": "squad.mp3"
+    },
+    {
+        "word": "SSD",
+        "transcription": "[ˌes es ˈdiː]",
+        "meaning": "Solid state drive storage",
+        "translation": "Твердотільний накопичувач, сучасний жорсткий диск",
+        "origin": "Технологія зберігання 2000-х років",
+        "note": "Накопичувач на основі флеш-пам'яті без рухомих частин. SSD набагато швидші за традиційні жорсткі диски.",
+        "type": "Акронім",
+        "audio": "ssd.mp3"
+    },
+    {
+        "word": "stalk",
+        "transcription": "[stɔːk]",
+        "meaning": "Observe someone online",
+        "translation": "Переслідування, постійне спостереження за кимось онлайн",
+        "origin": "Цифрова комунікація 2000-х років",
+        "note": "Постійний контроль за активністю іншої людини в Інтернеті. Stalking передбачає навмисне та постійне спостереження.",
+        "type": "Лексичні запозичення",
+        "audio": "stalk.mp3"
+    },
+    {
+        "word": "stan",
+        "transcription": "[stæn]",
+        "meaning": "Obsessive fan",
+        "translation": "Фанатичний шанувальник",
+        "origin": "Усічення від Eminem пісні 'Stan' 2000",
+        "note": "Описує людину яка надмірно фанатіє від артиста чи бренду. Надзвичайно популярний у K-pop спільноті та Twitter фандомах. Використовується як іменник та дієслово.",
+        "type": "Усічення",
+        "audio": "stan.mp3"
+    },
+    {
+        "word": "streaming",
+        "transcription": "[ˈstriːmɪŋ]",
+        "meaning": "Continuous transmission of media",
+        "translation": "Трансляція, потокова передача аудіо або відео",
+        "origin": "Інтернет-технології 1990-х років",
+        "note": "Метод передачі медіа-контенту без повного завантаження файлу. Streaming дозволяє користувачам починати перегляд майже відразу.",
+        "type": "Лексичні запозичення",
+        "audio": "streaming.mp3"
+    },
+    {
+        "word": "sus",
+        "transcription": "[səs]",
+        "meaning": "Suspicious or questionable",
+        "translation": "Підозрілий, сумнівний",
+        "origin": "Популяризоване грою Among Us 2018 року",
+        "note": "Скорочення від 'suspicious'. Sus став надзвичайно популярним на TikTok та в ігровому середовищі.",
+        "type": "Усічення",
+        "audio": "sus.mp3"
+    },
+    {
+        "word": "swipe",
+        "transcription": "[swaɪp]",
+        "meaning": "Gesture on touchscreen",
+        "translation": "Свайп, жест по екрану",
+        "origin": "Тачскрін технологія iPhone 2007",
+        "note": "Базова взаємодія з сенсорними екранами. 'Swipe right' став культурним феноменом через Tinder. Swipe вертикально для скролу контенту. Swipe жести трансформували як ми взаємодіємо з технологією.",
+        "type": "Лексичні запозичення",
+        "audio": "swipe.mp3"
+    },
+    {
+        "word": "TBH",
+        "transcription": "[tiː biː eɪtʃ]",
+        "meaning": "To Be Honest",
+        "translation": "Чесно кажучи",
+        "origin": "Текстовий акронім раннього інтернету 2000-х",
+        "note": "Один з найстаріших інтернет-акронімів що досі активно використовується. Популярний у всіх соцмережах для висловлення щирої думки. Створює атмосферу довіри в онлайн-спілкуванні.",
+        "type": "Акронім",
+        "audio": "tbh.mp3"
+    },
+    {
+        "word": "TBT",
+        "transcription": "[ˌtiː biː ˈtiː]",
+        "meaning": "Throwback Thursday",
+        "translation": "Четвер спогадів",
+        "origin": "Instagram тренд 2011-теперішній час",
+        "note": "Популярний Instagram хештег для старих фотографій по четвергах. Має мільярди постів та став ритуалом соцмереж. Nostalgic контент що з'єднує минуле та сьогодення. TBT створив культуру цифрової ностальгії де старі фото отримують нове життя.",
+        "type": "Ініціалізм",
+        "audio": "tbt.mp3"
+    },
+    {
+        "word": "tea",
+        "transcription": "[tiː]",
+        "meaning": "Gossip or information",
+        "translation": "Чутки або цікава інформація",
+        "origin": "Молодіжний сленг 1920-х років",
+        "note": "Іменник для цікавої або скандальної інформації. 'Spill the tea' означає розповісти цікаву історію.",
+        "type": "Лексичні запозичення",
+        "audio": "tea.mp3"
+    },
+    {
+        "word": "thirst trap",
+        "transcription": "[θɜːrst træp]",
+        "meaning": "Provocative post",
+        "translation": "Провокаційний пост",
+        "origin": "Instagram культура 2010-х",
+        "note": "Сексуально привабливе фото posted для отримання уваги та compliments. Популярний термін для опису certain Instagram content. Відображає attention economy та validation culture в соцмережах.",
+        "type": "Семантичний зсув",
+        "audio": "thirst-trap.mp3"
+    },
+    {
+        "word": "thirsty",
+        "transcription": "[ˈθɜːrsti]",
+        "meaning": "Desperate for attention",
+        "translation": "Відчайдушно потребує уваги",
+        "origin": "Сленг адаптований соцмережами 2010-х",
+        "note": "Описує людину що надмірно намагається отримати увагу або романтичний інтерес. Часто використовується для критики cringe поведінки в соцмережах. Відображає соціальні норми digital взаємодії.",
+        "type": "Лексичні запозичення",
+        "audio": "thirsty.mp3"
+    },
+    {
+        "word": "TIL",
+        "transcription": "[ˌtiː aɪ ˈel]",
+        "meaning": "Today I Learned",
+        "translation": "Сьогодні я дізнався",
+        "origin": "Reddit субредит r/todayilearned 2008-теперішній час",
+        "note": "Популярний Reddit акронім для ділення цікавими фактами. Став назвою одного з найбільших субредитів. Використовується в Twitter та інших платформах. TIL пости стали способом поширення знань та цікавинок в інтернет-культурі та освітньому контенті.",
+        "type": "Ініціалізм",
+        "audio": "til.mp3"
+    },
+    {
+        "word": "TL;DR",
+        "transcription": "[tiː el diː ɑːr]",
+        "meaning": "Too Long; Didn't Read",
+        "translation": "Занадто довго; не читав",
+        "origin": "Reddit ініціалізм 2000-х",
+        "note": "Коротке резюме довгого тексту. Відображає культуру короткого контенту та обмеженої уваги покоління соцмереж. Став символом швидкості споживання інформації.",
+        "type": "Ініціалізм",
+        "audio": "tldr.mp3"
+    },
+    {
+        "word": "TLDR",
+        "transcription": "[ˌtiː el diː ˈɑːr]",
+        "meaning": "Too Long Didn't Read",
+        "translation": "Занадто довго не читав",
+        "origin": "Інтернет-форуми та Reddit 2000-ті роки",
+        "note": "Акронім для короткого резюме довгого тексту. Критично важливий для Reddit постів та довгих коментарів. Автори часто додають TLDR внизу довгих постів. Відображає культуру короткої уваги та потребу в швидкій інформації в цифрову епоху.",
+        "type": "Ініціалізм",
+        "audio": "tldr.mp3"
+    },
+    {
+        "word": "touch grass",
+        "transcription": "[tʌtʃ ɡrɑːs]",
+        "meaning": "Go outside, disconnect from internet",
+        "translation": "Вийти на вулицю, відключитись",
+        "origin": "Інтернет-меми 2020-2021",
+        "note": "Порада провести час офлайн та reconnect з реальністю. 'Touch grass' використовується для тих хто надто онлайн. Мем про digital wellbeing. Touch grass культура нагадує про баланс.",
+        "type": "Неологізм",
+        "audio": "touch_grass.mp3"
+    },
+    {
+        "word": "toxic",
+        "transcription": "[ˈtɒksɪk]",
+        "meaning": "Harmful behavior",
+        "translation": "Шкідлива поведінка",
+        "origin": "Psychology термін адаптований relationship discourse 2010-х",
+        "note": "Описує нездорові relationships, поведінку, спільноти. Надзвичайно популярний у discussions про mental health на TikTok та Twitter. Молодь використовує для ідентифікації red flags у relationships.",
+        "type": "Семантичний зсув",
+        "audio": "toxic.mp3"
+    },
+    {
+        "word": "trauma dumping",
+        "transcription": "[ˈtrɔːmə ˈdʌmpɪŋ]",
+        "meaning": "Oversharing trauma inappropriately",
+        "translation": "Надмірне ділення травмою",
+        "origin": "TikTok mental health дискусії 2021-2022",
+        "note": "Неприйнятне ділення важкими переживаннями без згоди. Trauma dumping vs venting різниця важлива. TikTok підняв awareness про boundaries. Концепція допомагає здоровій емоційній комунікації онлайн.",
+        "type": "Неологізм",
+        "audio": "trauma_dumping.mp3"
+    },
+    {
+        "word": "triggered",
+        "transcription": "[ˈtrɪɡərd]",
+        "meaning": "Emotionally upset",
+        "translation": "Емоційно засмучений",
+        "origin": "Psychology термін адаптований інтернет культурою",
+        "note": "З серйозного mental health терміну перетворився на жартівливе слово для опису легкого роздратування. Викликає controversy через trivializing справжніх тригерів. Популярний у мемах та Twitter debates.",
+        "type": "Семантичний зсув",
+        "audio": "triggered.mp3"
+    },
+    {
+        "word": "troll",
+        "transcription": "[troʊl]",
+        "meaning": "Person who provokes online conflict",
+        "translation": "Тролль, людина, що провокує конфлікти онлайн",
+        "origin": "Інтернет-форуми 1980-х років",
+        "note": "Користувач, що публікує провокаційні матеріали для розпалювання конфліктів. Тролінг є формою кіберзулупства.",
+        "type": "Лексичні запозичення",
+        "audio": "troll.mp3"
+    },
+    {
+        "word": "tryhard",
+        "transcription": "[ˈtraɪhɑːrd]",
+        "meaning": "Someone who tries excessively hard",
+        "translation": "Трайхард, той хто надто старається",
+        "origin": "Онлайн-геймінг 2010-х років",
+        "note": "Критика тих хто надто серйозно грає в casual контексті. Tryhard може бути образою чи компліментом. Баланс між fun та competition. Tryhard культура відображає напругу між casual та competitive геймінгом.",
+        "type": "Неологізм",
+        "audio": "tryhard.mp3"
+    },
+    {
+        "word": "unalive",
+        "transcription": "[ˌʌnəˈlaɪv]",
+        "meaning": "Euphemism for death or suicide",
+        "translation": "Евфемізм для смерті",
+        "origin": "TikTok censorship обхід 2020-х",
+        "note": "Евфемізм створений щоб обійти TikTok цензуру. Unalive використовується для serious тем. Controversies про trivializing mental health. Unalive термін показує як платформи впливають на мову.",
+        "type": "Неологізм",
+        "audio": "unalive.mp3"
+    },
+    {
+        "word": "update",
+        "transcription": "[ˌʌpˈdeɪt]",
+        "meaning": "New version of software",
+        "translation": "Оновлення",
+        "origin": "Програмне забезпечення 1980-х років",
+        "note": "Критичні для безпеки та функціональності. Software updates можуть додати features чи виправити bugs. Auto-update полегшує процес. Update культура змінила як ми взаємодіємо з технологією.",
+        "type": "Лексичні запозичення",
+        "audio": "update.mp3"
+    },
+    {
+        "word": "upload",
+        "transcription": "[ˈʌpləʊd]",
+        "meaning": "Transfer data from device to internet",
+        "translation": "Вивантажити, завантажити",
+        "origin": "Інтернет-технології 1990-х років",
+        "note": "Базова дія для креаторів контенту. 'Upload schedule' критичний для YouTube успіху. Democratized контент-креацію для всіх. Upload технологія дозволила кожному стати креатором та трансформувала медіа-виробництво.",
+        "type": "Лексичні запозичення",
+        "audio": "upload.mp3"
+    },
+    {
+        "word": "URL",
+        "transcription": "[ˌjuː ɑːr ˈel]",
+        "meaning": "Uniform Resource Locator",
+        "translation": "Уніфікований локатор ресурсів, адреса сайту",
+        "origin": "Веб-технології 1990-х років",
+        "note": "Адреса вебсайту або ресурсу в Інтернеті. Кожен URL унікальний і ідентифікує конкретний ресурс в мережі.",
+        "type": "Акронім",
+        "audio": "url.mp3"
+    },
+    {
+        "word": "uwu",
+        "transcription": "[ˈuː.uː]",
+        "meaning": "Cute face expression",
+        "translation": "Казавий вираз обличчя, використовується для показу милоти",
+        "origin": "Інтернет-культура та аніме-спільнота 2000-х років",
+        "note": "Емотикон, що походить з аніме-культури. Представляє милий вираз обличчя. Часто використовується в чатах та соціальних мережах молоддю.",
+        "type": "Фонетичні/орфографічні ігри",
+        "audio": "uwu.mp3"
+    },
+    {
+        "word": "vent",
+        "transcription": "[vent]",
+        "meaning": "Express frustrations or emotions",
+        "translation": "Виплеснути емоції",
+        "origin": "Among Us механіка адаптована емоційно 2020-х",
+        "note": "Від game mechanic до емоційного висловлювання. Venting є healthy коли appropriate. TikTok vent videos популярні. Vent культура допомагає процесувати емоції онлайн.",
+        "type": "Семантичний зсув",
+        "audio": "vent.mp3"
+    },
+    {
+        "word": "vibe",
+        "transcription": "[vaɪb]",
+        "meaning": "General feeling or atmosphere",
+        "translation": "Атмосфера, відчуття, настрій",
+        "origin": "Молодіжний сленг 1960-х років, переосмислений в інтернеті 2010-х",
+        "note": "Слово, що позначає загальне відчуття або атмосферу людини чи групи. У контексті інтернету описує емоційну атмосферу контенту.",
+        "type": "Семантичний зсув",
+        "audio": "vibe.mp3"
+    },
+    {
+        "word": "vibe check",
+        "transcription": "[ˈvaɪb tʃek]",
+        "meaning": "Assessing someone's mood or attitude",
+        "translation": "Перевірка настрою або ставлення когось",
+        "origin": "Молодіжний сленг та інтернет-меми 2010-х років",
+        "note": "Фраза для оцінки настрою або енергії людини. 'Vibe check' став мемом з характерним жестом. Часто використовується жартома в групових чатах.",
+        "type": "Лексичні запозичення",
+        "audio": "vibe_check.mp3"
+    },
+    {
+        "word": "vid",
+        "transcription": "[vɪd]",
+        "meaning": "Video",
+        "translation": "Відео",
+        "origin": "YouTube та відео-платформи 2000-х років",
+        "note": "Коротке усічення для відео контенту онлайн. Популярне в описах YouTube та TikTok. Частина інтернет-жаргону для швидкої комунікації. Vid став базовим терміном в епоху коли відео є домінуючою формою онлайн-контенту.",
+        "type": "Усічення",
+        "audio": "vid.mp3"
+    },
+    {
+        "word": "viral",
+        "transcription": "[ˈvaɪrəl]",
+        "meaning": "Content that spreads rapidly",
+        "translation": "Вірусний, контент, що швидко поширюється онлайн",
+        "origin": "Інтернет 2000-х років",
+        "note": "Контент, що поширюється з надзвичайно високою швидкістю. Вірусний контент часто містить смішні чи емоційно впливаючі елементи.",
+        "type": "Семантичний зсув",
+        "audio": "viral.mp3"
+    },
+    {
+        "word": "vlog",
+        "transcription": "[vlɒɡ]",
+        "meaning": "Video blog",
+        "translation": "Відеоблог, блог у форматі відео",
+        "origin": "Блогерство та YouTube 2000-х років",
+        "note": "Блог з контентом у вигляді відеозаписів. Влоги стали популярним способом ділитися своїм життям.",
+        "type": "Бленд",
+        "audio": "vlog.mp3"
+    },
+    {
+        "word": "VPN",
+        "transcription": "[ˌviː piː ˈen]",
+        "meaning": "Virtual private network",
+        "translation": "Віртуальна приватна мережа, захищена мережа",
+        "origin": "Комп'ютерна безпека 1996 року",
+        "note": "Технологія для безпечного зашифрованого з'єднання з Інтернетом. VPN приховує реальну IP-адресу користувача.",
+        "type": "Акронім",
+        "audio": "vpn.mp3"
+    },
+    {
+        "word": "W",
+        "transcription": "[ˈdʌbəljuː]",
+        "meaning": "Win or success",
+        "translation": "Перемога, успіх",
+        "origin": "Gaming та спортивний сленг 2010-х",
+        "note": "Протилежність L для описання успіху. 'That's a W' означає перемогу. W в чаті святкує хороші події. W/L дихотомія спрощує життєві події до binary outcomes.",
+        "type": "Усічення",
+        "audio": "w.mp3"
+    },
+    {
+        "word": "wall hack",
+        "transcription": "[wɔːl hæk]",
+        "meaning": "Cheat to see through walls",
+        "translation": "Читування щоб бачити через стіни",
+        "origin": "Ігровий сленг 1990-х років",
+        "note": "Чит для проходження крізь стіни або бачення суперників через них. 'Wall hack' є однією з найпоширеніших форм читування. Розробники активно борються з цим.",
+        "type": "Лексичні запозичення",
+        "audio": "wall_hack.mp3"
+    },
+    {
+        "word": "wavy",
+        "transcription": "[ˈweɪvi]",
+        "meaning": "Cool, fashionable, impressive",
+        "translation": "Крутий, модний, вражаючий",
+        "origin": "Афроамериканський сленг, популяризований в інтернеті",
+        "note": "Прикметник для опису чогось крутого або модного. 'That's wavy' означає, що це класно. Популярна в музичних та модних спільнотах.",
+        "type": "Семантичний зсув",
+        "audio": "wavy.mp3"
+    },
+    {
+        "word": "WCW",
+        "transcription": "[ˌdʌbljuː siː ˈdʌbljuː]",
+        "meaning": "Woman Crush Wednesday",
+        "translation": "Жінка тижня (середа)",
+        "origin": "Instagram тренд 2013-теперішній час",
+        "note": "Середа для постів про жінок яких ти захоплюєшся. Популярний хештег для комплементів та визнань. MCM (Man Crush Monday) чоловічий еквівалент. WCW та MCM стали ритуалами публічного вираження прихильності в соцмережах.",
+        "type": "Ініціалізм",
+        "audio": "wcw.mp3"
+    },
+    {
+        "word": "webinar",
+        "transcription": "[ˈwebɪˌnɑːr]",
+        "meaning": "Seminar via internet",
+        "translation": "Вебінар, семінар, проведений через Інтернет",
+        "origin": "Онлайн-освіта 2000-х років",
+        "note": "Презентація чи тренування, що проводиться через Інтернет. Вебінари стали популярним інструментом для навчання.",
+        "type": "Бленд",
+        "audio": "webinar.mp3"
+    },
+    {
+        "word": "widget",
+        "transcription": "[ˈwɪdʒɪt]",
+        "meaning": "Small application on screen",
+        "translation": "Віджет",
+        "origin": "Графічні інтерфейси 1980-х років",
+        "note": "Міні-додатки на домашньому екрані телефону. Widgets надають швидкий доступ до інформації. iOS 14 додав widget підтримку. Widget кастомізація є популярною серед tech-ентузіастів.",
+        "type": "Неологізм",
+        "audio": "widget.mp3"
+    },
+    {
+        "word": "wifi",
+        "transcription": "[ˈwaɪ faɪ]",
+        "meaning": "Wireless fidelity network",
+        "translation": "Бездротова мережа, інтернет без проводів",
+        "origin": "Комп'ютерні мережі 2000-х років",
+        "note": "Технологія безпровідного підключення до Інтернету. Wi-Fi революціонізував мобільність в цифровому світі.",
+        "type": "Лексичні запозичення",
+        "audio": "wifi.mp3"
+    },
+    {
+        "word": "woke",
+        "transcription": "[woʊk]",
+        "meaning": "Socially aware",
+        "translation": "Соціально свідомий",
+        "origin": "Афроамериканський сленг адаптований mainstream 2010-х",
+        "note": "Описує awareness про соціальну несправедливість та нерівність. Став політизованим терміном що викликає debates. Використовується як позитивно так і sarcastically залежно від політичних поглядів.",
+        "type": "Семантичний зсув",
+        "audio": "woke.mp3"
+    },
+    {
+        "word": "WTF",
+        "transcription": "[ˌdʌbljuː tiː ˈef]",
+        "meaning": "What The F***",
+        "translation": "Що за біс",
+        "origin": "Інтернет-форуми та чати 1990-х років",
+        "note": "Вульгарний акронім для крайнього здивування чи обурення. Популярний в мемах та реакціях на абсурдні ситуації. Використовується повсюдно незважаючи на походження від лайки. WTF став універсальним виразом шоку в інтернет-культурі.",
+        "type": "Акронім",
+        "audio": "wtf.mp3"
+    },
+    {
+        "word": "XP",
+        "transcription": "[ˌeks ˈpiː]",
+        "meaning": "Experience Points",
+        "translation": "Досвід, очки досвіду",
+        "origin": "Dungeons & Dragons 1970-х адаптоване відеоіграми",
+        "note": "Акронім для прогресії персонажа в іграх. Grinding XP є часткою RPG досвіду. Leveling up через XP мотивує гравців. XP системи геймізували навчання та продуктивність поза іграми.",
+        "type": "Ініціалізм",
+        "audio": "xp.mp3"
+    },
+    {
+        "word": "Y2K",
+        "transcription": "[ˌwaɪ tuː ˈkeɪ]",
+        "meaning": "Year 2000 aesthetic revival",
+        "translation": "Естетика 2000-х років",
+        "origin": "Ностальгія та fashion циклічність 2020-х",
+        "note": "Nostalgic 2000s aesthetic що повернувся. Y2K fashion включає низьку талію, butterfly clips. Gen Z відкриває 2000s культуру. Y2K revival показує циклічність fashion та ностальгії.",
+        "type": "Ініціалізм",
+        "audio": "y2k.mp3"
+    },
+    {
+        "word": "YEET",
+        "transcription": "[jiːt]",
+        "meaning": "Throw something forcefully",
+        "translation": "Кинути щось з силою",
+        "origin": "Інтернет-меми та молодіжний сленг 2014 року",
+        "note": "Дієслово для кидання чогось з силою. YEET став популярним через меми та часто використовується жартома.",
+        "type": "Лексичні запозичення",
+        "audio": "yeet.mp3"
+    },
+    {
+        "word": "yeet",
+        "transcription": "[jiːt]",
+        "meaning": "To throw with force or express excitement",
+        "translation": "Кинути сильно, вигук радості",
+        "origin": "Vine відео та молодіжна культура 2014",
+        "note": "Вірусне слово з Vine що означає сильний кидок. Yeet виражає ентузіазм та енергію. Протилежність 'yoink' (взяти). Yeet став символом Vine ери та залишився в Gen Z лексиконі.",
+        "type": "Неологізм",
+        "audio": "yeet.mp3"
+    },
+    {
+        "word": "yolo",
+        "transcription": "[ˈjoʊloʊ]",
+        "meaning": "You Only Live Once",
+        "translation": "Живеш лише раз",
+        "origin": "Хіп-хоп сленг популяризований Drake 2011",
+        "note": "Філософія що заохочує ризики та спонтанні рішення. Був величезним трендом у early 2010-х на Twitter та Instagram. Залишається частиною молодіжного лексикону.",
+        "type": "Лексичні запозичення",
+        "audio": "yolo.mp3"
+    },
+    {
+        "word": "YOLO",
+        "transcription": "[ˈjəʊləʊ]",
+        "meaning": "You Only Live Once",
+        "translation": "Живеш лише раз",
+        "origin": "Реп Drake та молодіжна культура 2011 рік",
+        "note": "Філософія життя що виправдовує ризиковані рішення. Стала вірусною після пісні Drake 'The Motto'. Використовується для мотивації спонтанних вчинків. YOLO став культурним феноменом та мемом одночасно символізуючи як сміливість так і необдуманість молоді.",
+        "type": "Акронім",
+        "audio": "yolo.mp3"
+    },
+    {
+        "word": "zaddy",
+        "transcription": "[ˈzædi]",
+        "meaning": "Stylish attractive man",
+        "translation": "Стильний привабливий чоловік",
+        "origin": "Хіп-хоп та соцмережі 2010-х років",
+        "note": "Еволюція 'daddy' з додатковим стилем. Zaddy має swag та харизму. Популярне в Instagram коментарях. Zaddy комплемент поєднує зовнішність та впевненість.",
+        "type": "Неологізм",
+        "audio": "zaddy.mp3"
+    }
+]

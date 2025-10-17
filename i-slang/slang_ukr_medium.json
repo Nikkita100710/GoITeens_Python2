@@ -1,0 +1,512 @@
+[
+    {
+        "word": "selfie",
+        "transcription": "ˈselfi",
+        "meaning": "a photograph taken of oneself",
+        "translation": "селфі, фото самого себе",
+        "origin": "Неологізм, популяризований 2013 року, обраний словом року Oxford Dictionary",
+        "note": "Стало глобальним явищем з появою фронтальних камер на смартфонах",
+        "type": "Неологізм",
+        "audio": "selfie.mp3"
+    },
+    {
+        "word": "emoji",
+        "transcription": "ɪˈməʊdʒi",
+        "meaning": "small digital images used in messages",
+        "translation": "емодзі, цифрові смайлики",
+        "origin": "Японське слово (絵文字), запозичене в англійську мову",
+        "note": "Стандартизовані зображення для вираження емоцій у текстах",
+        "type": "Лексичні запозичення",
+        "audio": "emoji.mp3"
+    },
+    {
+        "word": "tweet",
+        "transcription": "twiːt",
+        "meaning": "a post on Twitter/X",
+        "translation": "твіт, повідомлення в Twitter",
+        "origin": "Від англійського 'tweet' (щебетання птахів), адаптоване Twitter",
+        "note": "Стало синонімом короткого онлайн-повідомлення",
+        "type": "Семантичний зсув",
+        "audio": "tweet.mp3"
+    },
+    {
+        "word": "vlog",
+        "transcription": "vlɒɡ",
+        "meaning": "video blog",
+        "translation": "відеоблог, відеощоденник",
+        "origin": "Бленд від 'video' + 'blog', популяризований YouTube",
+        "note": "Формат контенту, де автор ділиться життям через відео",
+        "type": "Бленд",
+        "audio": "vlog.mp3"
+    },
+    {
+        "word": "troll",
+        "transcription": "trəʊl",
+        "meaning": "to deliberately provoke others online",
+        "translation": "тролити, провокувати в інтернеті",
+        "origin": "Від рибальського терміну, набуло інтернет-значення 1990-х",
+        "note": "Навмисна провокація для викликання негативних емоцій",
+        "type": "Семантичний зсув",
+        "audio": "troll.mp3"
+    },
+    {
+        "word": "noob",
+        "transcription": "nuːb",
+        "meaning": "a beginner or inexperienced person",
+        "translation": "новачок, недосвідчений гравець",
+        "origin": "Скорочення від 'newbie', популярне в онлайн-іграх",
+        "note": "Часто має зневажливий відтінок у геймерській культурі",
+        "type": "Усічення",
+        "audio": "noob.mp3"
+    },
+    {
+        "word": "hype",
+        "transcription": "haɪp",
+        "meaning": "excessive publicity or excitement",
+        "translation": "ажіотаж, шумиха навколо чогось",
+        "origin": "Американський сленг, що прижився в інтернеті",
+        "note": "Надмірне захоплення або очікування від чогось нового",
+        "type": "Семантичний зсув",
+        "audio": "hype.mp3"
+    },
+    {
+        "word": "viral",
+        "transcription": "ˈvaɪrəl",
+        "meaning": "content that spreads rapidly online",
+        "translation": "вірусний, той що швидко поширюється",
+        "origin": "Від 'virus', адаптоване для опису поширення контенту",
+        "note": "Контент, який миттєво набирає мільйони переглядів",
+        "type": "Семантичний зсув",
+        "audio": "viral.mp3"
+    },
+    {
+        "word": "stream",
+        "transcription": "striːm",
+        "meaning": "live broadcast online",
+        "translation": "стрім, пряма трансляція",
+        "origin": "Від 'streaming', набуло значення прямого ефіру",
+        "note": "Пряма відеотрансляція на Twitch, YouTube тощо",
+        "type": "Семантичний зсув",
+        "audio": "stream.mp3"
+    },
+    {
+        "word": "flex",
+        "transcription": "fleks",
+        "meaning": "to show off",
+        "translation": "хизуватися, виставляти напоказ",
+        "origin": "Американський сленг, популяризований реп-культурою",
+        "note": "Демонстрація багатства, досягнень або статусу",
+        "type": "Семантичний зсув",
+        "audio": "flex.mp3"
+    },
+    {
+        "word": "cringe",
+        "transcription": "krɪndʒ",
+        "meaning": "something embarrassing or awkward",
+        "translation": "соромно, незручно дивитися",
+        "origin": "Звичайне слово, що набуло онлайн-популярності",
+        "note": "Відчуття сорому за чужі дії або слова",
+        "type": "Семантичний зсув",
+        "audio": "cringe.mp3"
+    },
+    {
+        "word": "simp",
+        "transcription": "sɪmp",
+        "meaning": "someone who does too much for someone they like",
+        "translation": "людина, що надмірно догоджає комусь",
+        "origin": "Скорочення від 'simpleton', набуло нового значення у мемах",
+        "note": "Популяризоване TikTok у 2019-2020 роках",
+        "type": "Неологізм",
+        "audio": "simp.mp3"
+    },
+    {
+        "word": "karen",
+        "transcription": "ˈkærən",
+        "meaning": "an entitled, demanding person",
+        "translation": "вередлива людина, що скаржиться на все",
+        "origin": "Ім'я Karen стало мемом для позначення певного типу поведінки",
+        "note": "Стереотип про надмірно вимогливу людину середнього віку",
+        "type": "Неологізм",
+        "audio": "karen.mp3"
+    },
+    {
+        "word": "stan",
+        "transcription": "stæn",
+        "meaning": "an obsessive fan",
+        "translation": "фанат-фанатик, одержимий шанувальник",
+        "origin": "Від пісні Eminem 'Stan' (2000), де описаний одержимий фанат",
+        "note": "Може бути як іменником, так і дієсловом (to stan = підтримувати)",
+        "type": "Неологізм",
+        "audio": "stan.mp3"
+    },
+    {
+        "word": "yeet",
+        "transcription": "jiːt",
+        "meaning": "to throw forcefully",
+        "translation": "кинути щосили, швиргонути",
+        "origin": "Вигук з відео 2014 року, став вірусним мемом",
+        "note": "Також використовується як вигук захоплення або енергії",
+        "type": "Неологізм",
+        "audio": "yeet.mp3"
+    },
+    {
+        "word": "salty",
+        "transcription": "ˈsɔːlti",
+        "meaning": "upset or bitter about something",
+        "translation": "ображений, засмучений, роздратований",
+        "origin": "Геймерський сленг, що означає злість після поразки",
+        "note": "Популярне в конкурентних онлайн-іграх",
+        "type": "Семантичний зсув",
+        "audio": "salty.mp3"
+    },
+    {
+        "word": "ghosting",
+        "transcription": "ˈɡəʊstɪŋ",
+        "meaning": "suddenly cutting off all communication",
+        "translation": "раптово зникнути, перестати відповідати",
+        "origin": "Термін з онлайн-знайомств, що описує раптове ігнорування",
+        "note": "Поширилося з додатків для знайомств",
+        "type": "Неологізм",
+        "audio": "ghosting.mp3"
+    },
+    {
+        "word": "binge",
+        "transcription": "bɪndʒ",
+        "meaning": "to watch multiple episodes in one sitting",
+        "translation": "дивитися серіал запоєм, за один раз",
+        "origin": "Від 'binge-watching', popularized Netflix",
+        "note": "Перегляд цілого сезону серіалу за короткий час",
+        "type": "Усічення",
+        "audio": "binge.mp3"
+    },
+    {
+        "word": "fomo",
+        "transcription": "ˈfəʊməʊ",
+        "meaning": "fear of missing out",
+        "translation": "страх упустити щось важливе",
+        "origin": "Акронім, що описує соціальну тривогу епохи соцмереж",
+        "note": "Психологічний феномен, пов'язаний із соцмережами",
+        "type": "Акронім",
+        "audio": "fomo.mp3"
+    },
+    {
+        "word": "mood",
+        "transcription": "muːd",
+        "meaning": "something relatable",
+        "translation": "це про мене, відчуваю те саме",
+        "origin": "Звичайне слово, що набуло нового значення в мемах",
+        "note": "Використовується для вираження повного розуміння ситуації",
+        "type": "Семантичний зсув",
+        "audio": "mood.mp3"
+    },
+    {
+        "word": "shade",
+        "transcription": "ʃeɪd",
+        "meaning": "subtle insult or criticism",
+        "translation": "тонка образа, завуальована критика",
+        "origin": "З ЛГБТ-культури, популяризоване через телешоу",
+        "note": "Непряма критика або зневажливе ставлення",
+        "type": "Семантичний зсув",
+        "audio": "shade.mp3"
+    },
+    {
+        "word": "sus",
+        "transcription": "sʌs",
+        "meaning": "suspicious",
+        "translation": "підозрілий, сумнівний",
+        "origin": "Скорочення від 'suspicious', popularized грою Among Us",
+        "note": "Вибухнуло у популярності 2020 року завдяки Among Us",
+        "type": "Усічення",
+        "audio": "sus.mp3"
+    },
+    {
+        "word": "vibe",
+        "transcription": "vaɪb",
+        "meaning": "a feeling or atmosphere",
+        "translation": "атмосфера, відчуття, настрій",
+        "origin": "Скорочення від 'vibration', стало популярним у Gen Z",
+        "note": "Загальна енергія або настрій ситуації",
+        "type": "Усічення",
+        "audio": "vibe.mp3"
+    },
+    {
+        "word": "ship",
+        "transcription": "ʃɪp",
+        "meaning": "to support a romantic pairing",
+        "translation": "підтримувати пару, вболівати за стосунки",
+        "origin": "Від 'relationship', скорочено фанатами",
+        "note": "Популярне у фан-культурі для підтримки пар персонажів",
+        "type": "Усічення",
+        "audio": "ship.mp3"
+    },
+    {
+        "word": "clout",
+        "transcription": "klaʊt",
+        "meaning": "influence or power, especially online",
+        "translation": "вплив, популярність, авторитет",
+        "origin": "Старе слово, що набуло нового значення в соцмережах",
+        "note": "Соціальний вплив або статус в онлайн-спільноті",
+        "type": "Семантичний зсув",
+        "audio": "clout.mp3"
+    },
+    {
+        "word": "ratio",
+        "transcription": "ˈreɪʃiəʊ",
+        "meaning": "when a reply gets more engagement than original post",
+        "translation": "коли відповідь популярніша за оригінальний пост",
+        "origin": "З Twitter, де співвідношення лайків важливе",
+        "note": "Показник того, що відповідь краща за оригінал",
+        "type": "Семантичний зсув",
+        "audio": "ratio.mp3"
+    },
+    {
+        "word": "cap",
+        "transcription": "kæp",
+        "meaning": "a lie or to lie",
+        "translation": "брехня, базіка (no cap = без базіки)",
+        "origin": "З афроамериканського сленгу, popularized TikTok",
+        "note": "'No cap' означає 'без жартів, серйозно'",
+        "type": "Семантичний зсув",
+        "audio": "cap.mp3"
+    },
+    {
+        "word": "bussin",
+        "transcription": "ˈbʌsɪn",
+        "meaning": "really good, amazing",
+        "translation": "дуже смачно, чудово, класно",
+        "origin": "З афроамериканського сленгу, popularized TikTok",
+        "note": "Часто використовується про їжу, але може стосуватися чогось іншого",
+        "type": "Неологізм",
+        "audio": "bussin.mp3"
+    },
+    {
+        "word": "tea",
+        "transcription": "tiː",
+        "meaning": "gossip or juicy information",
+        "translation": "плітки, цікава інформація",
+        "origin": "З ЛГБТ-культури, 'spill the tea' = розказати плітки",
+        "note": "'What's the tea?' = 'Які новини/плітки?'",
+        "type": "Семантичний зсув",
+        "audio": "tea.mp3"
+    },
+    {
+        "word": "slay",
+        "transcription": "sleɪ",
+        "meaning": "to do something extremely well",
+        "translation": "зробити щось бездоганно, красень",
+        "origin": "З бальної культури 1980-х, популяризоване через дрег-культуру",
+        "note": "Вираз захоплення чиїмось виглядом або виступом",
+        "type": "Семантичний зсув",
+        "audio": "slay.mp3"
+    },
+    {
+        "word": "drip",
+        "transcription": "drɪp",
+        "meaning": "stylish outfit or appearance",
+        "translation": "стильний образ, крутий вигляд",
+        "origin": "З реп-культури, означає дорогий стиль",
+        "note": "Високий рівень моди та стилю",
+        "type": "Семантичний зсув",
+        "audio": "drip.mp3"
+    },
+    {
+        "word": "finsta",
+        "transcription": "ˈfɪnstə",
+        "meaning": "fake Instagram account",
+        "translation": "фейковий акаунт в Instagram для близьких друзів",
+        "origin": "Бленд від 'fake' + 'Instagram'",
+        "note": "Приватний акаунт для особистого контенту",
+        "type": "Бленд",
+        "audio": "finsta.mp3"
+    },
+    {
+        "word": "lowkey",
+        "transcription": "ˈləʊkiː",
+        "meaning": "slightly or secretly",
+        "translation": "трохи, таємно, насправді",
+        "origin": "Звичайне словосполучення, що стало популярним онлайн",
+        "note": "Вираз прихованого почуття або думки",
+        "type": "Неологізм",
+        "audio": "lowkey.mp3"
+    },
+    {
+        "word": "highkey",
+        "transcription": "ˈhaɪkiː",
+        "meaning": "very obviously",
+        "translation": "явно, відкрито, дуже сильно",
+        "origin": "Антонім до 'lowkey', створений за аналогією",
+        "note": "Протилежність 'lowkey' - щось очевидне",
+        "type": "Неологізм",
+        "audio": "highkey.mp3"
+    },
+    {
+        "word": "lit",
+        "transcription": "lɪt",
+        "meaning": "exciting or excellent",
+        "translation": "круто, класно, запально",
+        "origin": "З реп-сленгу, означало 'п'яний', потім 'веселий'",
+        "note": "Щось дуже хороше або захоплююче",
+        "type": "Семантичний зсув",
+        "audio": "lit.mp3"
+    },
+    {
+        "word": "fire",
+        "transcription": "ˈfaɪər",
+        "meaning": "amazing or excellent",
+        "translation": "вогонь, круто, класно",
+        "origin": "Звичайне слово, що стало позитивною оцінкою",
+        "note": "Часто з емодзі 🔥 для підсилення",
+        "type": "Семантичний зсув",
+        "audio": "fire.mp3"
+    },
+    {
+        "word": "basic",
+        "transcription": "ˈbeɪsɪk",
+        "meaning": "unoriginal or mainstream",
+        "translation": "банальний, шаблонний, без оригінальності",
+        "origin": "Звичайне слово, що набуло зневажливого значення",
+        "note": "Про когось, хто слідує масовим трендам без індивідуальності",
+        "type": "Семантичний зсув",
+        "audio": "basic.mp3"
+    },
+    {
+        "word": "savage",
+        "transcription": "ˈsævɪdʒ",
+        "meaning": "fierce or ruthless",
+        "translation": "жорсткий, безжальний, різкий",
+        "origin": "Звичайне слово, що набуло позитивного відтінку онлайн",
+        "note": "Позитивна характеристика різкої або сміливої поведінки",
+        "type": "Семантичний зсув",
+        "audio": "savage.mp3"
+    },
+    {
+        "word": "roast",
+        "transcription": "rəʊst",
+        "meaning": "to humorously mock someone",
+        "translation": "жартівливо висміювати, піджарювати",
+        "origin": "Від 'comedy roast', адаптоване для онлайн-культури",
+        "note": "Дружнє глузування або гумористична критика",
+        "type": "Семантичний зсув",
+        "audio": "roast.mp3"
+    },
+    {
+        "word": "bet",
+        "transcription": "bet",
+        "meaning": "agreement or confirmation",
+        "translation": "домовилися, зрозумів, добре",
+        "origin": "З афроамериканського сленгу, означає згоду",
+        "note": "Швидкий спосіб сказати 'ok' або 'я згоден'",
+        "type": "Семантичний зсув",
+        "audio": "bet.mp3"
+    },
+    {
+        "word": "receipts",
+        "transcription": "rɪˈsiːts",
+        "meaning": "proof or evidence",
+        "translation": "докази, підтвердження (скріншоти тощо)",
+        "origin": "Від 'показати чек', адаптоване для онлайн-доказів",
+        "note": "Зазвичай скріншоти повідомлень як докази",
+        "type": "Семантичний зсув",
+        "audio": "receipts.mp3"
+    },
+    {
+        "word": "shook",
+        "transcription": "ʃʊk",
+        "meaning": "shocked or surprised",
+        "translation": "шокований, вражений, приголомшений",
+        "origin": "Від 'shaken', popularized через мем 'I'm shook'",
+        "note": "Стан сильного здивування або шоку",
+        "type": "Семантичний зсув",
+        "audio": "shook.mp3"
+    },
+    {
+        "word": "woke",
+        "transcription": "wəʊk",
+        "meaning": "aware of social issues",
+        "translation": "соціально свідомий, обізнаний у проблемах",
+        "origin": "З афроамериканського сленгу, означає пробудження",
+        "note": "Усвідомлення соціальної несправедливості",
+        "type": "Семантичний зсув",
+        "audio": "woke.mp3"
+    },
+    {
+        "word": "cope",
+        "transcription": "kəʊp",
+        "meaning": "to deal with difficulty, often used mockingly",
+        "translation": "справлятися, витримувати (часто іронічно)",
+        "origin": "Звичайне слово, що стало мемом у дискусіях",
+        "note": "Часто використовується іронічно: 'cope and seethe'",
+        "type": "Семантичний зсув",
+        "audio": "cope.mp3"
+    },
+    {
+        "word": "based",
+        "transcription": "beɪst",
+        "meaning": "being yourself without caring about others",
+        "translation": "бути собою, не зважати на думку інших",
+        "origin": "Popularized репером Lil B, набуло позитивного значення",
+        "note": "Похвала за незалежність думки та автентичність",
+        "type": "Семантичний зсув",
+        "audio": "based.mp3"
+    },
+    {
+        "word": "mid",
+        "transcription": "mɪd",
+        "meaning": "mediocre or average",
+        "translation": "посереднє, середнього рівня, нічого особливого",
+        "origin": "Скорочення від 'middle', popularized TikTok",
+        "note": "М'яка критика, що щось не вражає",
+        "type": "Усічення",
+        "audio": "mid.mp3"
+    },
+    {
+        "word": "slaps",
+        "transcription": "slæps",
+        "meaning": "is really good (usually music)",
+        "translation": "качає, круто (зазвичай про музику)",
+        "origin": "Музичний сленг, що означає 'вдаряє сильно'",
+        "note": "'This song slaps' = ця пісня дуже хороша",
+        "type": "Семантичний зсув",
+        "audio": "slaps.mp3"
+    },
+    {
+        "word": "goat",
+        "transcription": "ɡəʊt",
+        "meaning": "greatest of all time",
+        "translation": "найкращий з усіх часів",
+        "origin": "Акронім від 'Greatest Of All Time', popularized спортом",
+        "note": "Найвища похвала для когось або чогось",
+        "type": "Акронім",
+        "audio": "goat.mp3"
+    },
+    {
+        "word": "glow up",
+        "transcription": "ɡləʊ ʌp",
+        "meaning": "positive transformation",
+        "translation": "позитивна трансформація, розквіт",
+        "origin": "Неологізм, що описує покращення зовнішності або життя",
+        "note": "Драматичне покращення зовнішності або статусу",
+        "type": "Неологізм",
+        "audio": "glow_up.mp3"
+    },
+    {
+        "word": "cancel",
+        "transcription": "ˈkænsəl",
+        "meaning": "to boycott someone for bad behavior",
+        "translation": "бойкотувати, відміняти (когось за погану поведінку)",
+        "origin": "Від 'cancel culture', феномен соцмереж",
+        "note": "Колективне відмовлення підтримувати публічну особу",
+        "type": "Семантичний зсув",
+        "audio": "cancel.mp3"
+    },
+    {
+        "word": "main character",
+        "transcription": "meɪn ˈkærəktə",
+        "meaning": "acting like you're the center of attention",
+        "translation": "вести себе як головний герой",
+        "origin": "З TikTok, означає впевнену поведінку",
+        "note": "'Main character energy' = бути в центрі уваги",
+        "type": "Неологізм",
+        "audio": "main_character.mp3"
+    }
+]

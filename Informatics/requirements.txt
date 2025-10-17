@@ -1,5 +1,0 @@
-pillow
-numpy
-fpdf
-python-docx
-pydub
